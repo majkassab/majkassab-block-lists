@@ -8,3 +8,6 @@ Make sure you have an uBlock Origin installed in your desktop or mobile browsers
 ## Lists
 Google List:
 - [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google)
+
+Facebook List:
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook)
