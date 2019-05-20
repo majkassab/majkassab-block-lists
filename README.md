@@ -7,10 +7,10 @@ Make sure you have an uBlock Origin installed in your desktop or mobile browsers
 
 ## Lists
 Google List:
-- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google)
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google.txt](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google.txt)
 
 Facebook List:
-- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook)
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook.txt](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook.txt)
 
 Cyber Attack List: (Ads & Malware domain)
-- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack)
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt)
