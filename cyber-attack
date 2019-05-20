@@ -1,7 +1,7 @@
 ! Homepage: http://www.majkassab.com/
 ! Title: cyber attack List by Mohamad Kassab
 ! Last modified: 20 May 2019
-! Description: This filter blocks ads and malware domains.
+! Description: This filter blocks ads, Tracker and malware domains.
 !
 ! You can report unblocked content and direct general queries to us
 ! via e-mail - majkassab+malwareblocklist@majkassab.com
@@ -11,3 +11,70 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+||ad1data.com^
+||adsense.com^
+||advertising.com^
+||adwords.com^
+||coddict.com^
+||devapp.co^
+||fwmrm.net^
+||gitcdn.xyz^
+||go-ads.live^
+||doubleclick.net^$important
+||google-analytics.com^$important
+||googleadservices.com^$important
+||googleanalytics.com^$important
+||googletagservices.com^$important
+||ithoahie.com^
+||kromtech.net^
+||mackeeper.com^
+||mousheen.net^
+||mybestdc.com^
+||owox.com^
+||pushedwebnews.com^
+||spygasm.com^
+||tracking.marketing^
+||naustoch.net^$important
+||worldssl.net^$important
+||com-fast.live^$important
+||smarturl.it^$important
+||qwepop.site^$important
+||dsp.wtf^$important
+||tt2.openload.co^$important
+||t1.streamango.com^$important
+||vidlox.me^
+||enoughts.info^$important
+||funtikapa.info^$important
+||nythatspartaund.info^$important
+||qwepop.site^$important
+||bigcoin.io^$important
+||wickyad.com^$important
+||pushit.work^$important
+||qwepop.site^$important
+||pushit.work^$important
+||denis-pj0823031-491201b.com^
+||dynsrvbaa.com^
+||pegloang.com^
+||postquare.com^
+||getmackeepersoftpro.xyz^
+||123clkforpro.me^
+||offerteonline2020.xyz^
+||ozonestsscareer.info^
+||thesandonesof.info^
+||imasdk.googleapis.com^$important
+||adtechus.com^
+||oneimpress.io^$important
+||pushalert.co^
+||tesseradigital.com^
+||convertbox.com^
+||today-prizes.club^
+||directservers.online^
+||showmoviesonline.club^
+||cheapairlinestickets.fun^
+||filfanramadan.online^
+||xilbalar.com^
+||verakiosk.com^
+||sweetsacademy.me^
+||ttxsrl1.life^
+||dreamdem.com^
+||clients5.google.com^
