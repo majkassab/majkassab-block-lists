@@ -1,5 +1,5 @@
 # Majkassab Block Lists
-This is an adblock lists to block domain like Google, Facebook, Ads, Malware...etc. If you see other websites supporting these deeds, then feel free to raise an **Issue** or **Pull request** for it to be taken care of.
+This is an adblock lists to block domain like Google, Facebook, Ads, Malware...etc.
 
 ## Installation
 Make sure you have an uBlock Origin installed in your desktop or mobile browsers.
