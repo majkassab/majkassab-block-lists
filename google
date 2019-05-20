@@ -10,6 +10,7 @@
 ! License: We give everyone permission to modify, copy and distribute this list.
 !          While not mandatory, we would appreciate credit if you use this list. 
 !
+! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 #Google recaptcha Exception
 @@||www.google.com/recaptcha/*
