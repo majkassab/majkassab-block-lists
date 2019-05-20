@@ -25,11 +25,10 @@
 @@||ssl.gstatic.com/inputtools/js/*$script,domain=translate.google.com
 @@||ssl.gstatic.com/inputtools/images/*$image,domain=translate.google.com
 @@||www.gstatic.com/images/branding/googlelogo/svg/*$image,domain=translate.google.com
-!
 # Google Header Pop-up
 ||www.google.com/favicon.ico$image,domain=www.google.com,important
 # Google Ads server
-||adservice.google.com
+||adservice.google.com^
 ||doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
