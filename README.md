@@ -11,3 +11,6 @@ Google List:
 
 Facebook List:
 - [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook)
+
+Cyber Attack List: (Ads & Malware domain)
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack)
