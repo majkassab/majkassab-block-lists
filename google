@@ -40,5 +40,4 @@
 # Google Server
 ||gstatic.com^
 ||google.com^
-||google.*
 ||googleapis.com^
