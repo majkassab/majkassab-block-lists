@@ -7,4 +7,4 @@ Make sure you have an uBlock Origin installed in your desktop or mobile browsers
 
 ## Google List
 click or import below link into your adblocker:
-- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google&title=Google%20Block%20Lis%20by%20Mohamad%20Kassab)
+- [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google)
