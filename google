@@ -17,15 +17,17 @@
 @@||www.google.com/js/bg/rROqgnstbGbAcC5_Svz1_242pumi_kLVAcB0RrQ85SE.js$script,domain=www.google.com
 # Google Fonts Exception
 @@||fonts.googleapis.com/css$stylesheet
+@@||fonts.gstatic.com^$font
 !
 ||www.google.com/favicon.ico$image,domain=www.google.com,important
-||gstatic.com^
-||google.com^
 ||adservice.google.com.lb^$important
 ||adservice.google.com^$important
 ||doubleclick.net^$important
 ||google-analytics.com^$important
 ||googleadservices.com^$important
 ||googleanalytics.com^$important
-||googleapis.com^
 ||googletagservices.com^$important
+||googlesyndication.com^$important
+||gstatic.com^
+||google.com^
+||googleapis.com^
