@@ -1,5 +1,5 @@
 ! Homepage: http://www.majkassab.com/
-! Title: cyber attack List by Mohamad Kassab
+! Title: Cyber attack List by Mohamad Kassab
 ! Last modified: 20 May 2019
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
