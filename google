@@ -29,8 +29,8 @@
 # Google Header Pop-up
 ||www.google.com/favicon.ico$image,domain=www.google.com,important
 # Google Ads server
-||adservice.google.com.lb^
-||adservice.google.com^
+||adservice.google.com
+||adservice.google.com*
 ||doubleclick.net^
 ||google-analytics.com^
 ||googleadservices.com^
@@ -40,4 +40,5 @@
 # Google Server
 ||gstatic.com^
 ||google.com^
+||google.com*
 ||googleapis.com^
