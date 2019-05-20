@@ -5,6 +5,6 @@ This is an adblock lists to block domain like Google, Facebook, Ads, Malware...e
 Make sure you have an uBlock Origin installed in your desktop or mobile browsers.
 * ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin](https://github.com/gorhill/uBlock)
 
-## Google List
-click or import below link into your adblocker:
+## List
+Google List:
 - [https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google](https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/google)
