@@ -25,6 +25,8 @@
 @@||ssl.gstatic.com/inputtools/js/*$script,domain=translate.google.com
 @@||ssl.gstatic.com/inputtools/images/*$image,domain=translate.google.com
 @@||www.gstatic.com/images/branding/googlelogo/svg/*$image,domain=translate.google.com
+# Google ajax
+@@||ajax.googleapis.com/ajax/libs/jquery/*$script
 # Google Header Pop-up
 ||www.google.com/favicon.ico$image,domain=www.google.com,important
 # Google Ads server
