@@ -20,11 +20,12 @@
 @@||fonts.gstatic.com^$font
 # Google Translate Exception
 @@||translate.google.com^
-@@||ssl.gstatic.com/images/icons/material/system_gm/1x/*$image,domain=translate.google.com
 @@||www.gstatic.com/inputtools/js/*$script,domain=translate.google.com
+@@||www.gstatic.com/images/branding/googlelogo/svg/*$image,domain=translate.google.com
+@@||ssl.gstatic.com/images/icons/material/system_gm/1x/*$image,domain=translate.google.com
 @@||ssl.gstatic.com/inputtools/js/*$script,domain=translate.google.com
 @@||ssl.gstatic.com/inputtools/images/*$image,domain=translate.google.com
-@@||www.gstatic.com/images/branding/googlelogo/svg/*$image,domain=translate.google.com
+@@||ssl.gstatic.com/translate/*$image,domain=translate.google.com
 # Google ajax Exception
 @@||ajax.googleapis.com/ajax/libs/jquery/*$script
 # Google Header Pop-up
