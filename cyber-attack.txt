@@ -9,7 +9,7 @@
 ! License: We give everyone permission to modify, copy and distribute this list.
 !          While not mandatory, we would appreciate credit if you use this list. 
 !
-! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack
+! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ||ad1data.com^
 ||adsense.com^
