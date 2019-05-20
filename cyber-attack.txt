@@ -27,6 +27,7 @@
 ||coddict.com^
 ||com-fast.live^$important
 ||convertbox.com^
+||dairouzy.net^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
 ||directservers.online^
@@ -40,6 +41,7 @@
 ||fwmrm.net^
 ||getmackeepersoftpro.xyz^
 ||gitcdn.xyz^
+||gleechie.net^
 ||go-ads.live^
 ||google-analytics.com^$important
 ||googleadservices.com^$important
@@ -47,6 +49,7 @@
 ||googletagservices.com^$important
 ||imasdk.googleapis.com^$important
 ||ithoahie.com^
+||kimsacka.net^
 ||kromtech.net^
 ||mackeeper.com^
 ||mousheen.net^
