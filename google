@@ -18,16 +18,22 @@
 # Google Fonts Exception
 @@||fonts.googleapis.com/css$stylesheet
 @@||fonts.gstatic.com^$font
+# Google Translate Exception
+@@||translate.google.com^
+@@||ssl.gstatic.com/images/icons/material/system_gm/1x/*$image,domain=translate.google.com
 !
+# Google Header Pop-up
 ||www.google.com/favicon.ico$image,domain=www.google.com,important
-||adservice.google.com.lb^$important
-||adservice.google.com^$important
-||doubleclick.net^$important
-||google-analytics.com^$important
-||googleadservices.com^$important
-||googleanalytics.com^$important
-||googletagservices.com^$important
-||googlesyndication.com^$important
+# Google Ads server
+||adservice.google.com.lb^
+||adservice.google.com^
+||doubleclick.net^
+||google-analytics.com^
+||googleadservices.com^
+||googleanalytics.com^
+||googletagservices.com^
+||googlesyndication.com^
+# Google Server
 ||gstatic.com^
 ||google.com^
 ||googleapis.com^
