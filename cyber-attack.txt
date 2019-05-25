@@ -20,6 +20,8 @@
 ||adtechus.com^
 ||advertising.com^
 ||adwords.com^
+||app-measurement.com^
+||appsflyer.com^
 ||b3z29k1uxb.com^
 ||bigcoin.io^$important
 ||cheapairlinestickets.fun^
@@ -29,6 +31,7 @@
 ||coddict.com^
 ||com-fast.live^$important
 ||convertbox.com^
+||crashlytics.com^
 ||dairouzy.net^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
@@ -48,6 +51,7 @@
 ||gleechie.net^
 ||go-ads.live^
 ||google-analytics.com^$important
+||googleadapis.l.google.com^
 ||googleadservices.com^$important
 ||googleanalytics.com^$important
 ||googletagservices.com^$important
@@ -56,7 +60,9 @@
 ||ithoahie.com^
 ||kimsacka.net^
 ||kromtech.net^
+||litix.io^
 ||mackeeper.com^
+||mixpanel.com^
 ||mousheen.net^
 ||mybestdc.com^
 ||naustoch.net^$important
@@ -74,6 +80,7 @@
 ||showmoviesonline.club^
 ||smarturl.it^$important
 ||spygasm.com^
+||suggestqueries.google.com^
 ||sweetsacademy.me^
 ||t1.streamango.com^$important
 ||tesseradigital.com^
@@ -85,5 +92,6 @@
 ||verakiosk.com^
 ||vidlox.me^
 ||wickyad.com^$important
+||wistia.com^
 ||worldssl.net^$important
 ||xilbalar.com^
