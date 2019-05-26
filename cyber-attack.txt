@@ -20,6 +20,7 @@
 ||adtechus.com^
 ||advertising.com^
 ||adwords.com^
+||anavids.net^
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
@@ -88,9 +89,11 @@
 ||tesseradigital.com^
 ||thesandonesof.info^
 ||today-prizes.club^
+||tonstiparro.info^
 ||tracking.marketing^
 ||tt2.openload.co^$important
 ||ttxsrl1.life^
+||vamprog.site^
 ||verakiosk.com^
 ||vidlox.me^
 ||wickyad.com^$important
