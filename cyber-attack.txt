@@ -44,6 +44,7 @@
 ||enoughts.info^$important
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
+||fonts.googleapis.com^
 ||funtikapa.info^$important
 ||fwmrm.net^
 ||getmackeepersoftpro.xyz^
