@@ -22,6 +22,7 @@
 ||adtechus.com^
 ||advertising.com^
 ||adwords.com^
+||apis.google.com^
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
@@ -30,16 +31,19 @@
 ||cheapairlinestickets.fun^
 ||clients1.google.com^
 ||clients2.google.com^
+||clients3.google.com^
 ||clients5.google.com^
 ||coddict.com^
 ||com-fast.live^$important
 ||connect.facebook.net^
+||connectivitycheck.gstatic.com^
 ||convertbox.com^
 ||crashlytics.com^
 ||dairouzy.net^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
 ||directservers.online^
+||dl.google.com^
 ||doubleclick.net^$important
 ||dreamdem.com^
 ||dsp.wtf^$important
@@ -70,6 +74,7 @@
 ||mackeeper.com^
 ||mixpanel.com^
 ||mousheen.net^
+||mtalk.google.com^
 ||mybestdc.com^
 ||naustoch.net^
 ||nythatspartaund.info^
@@ -88,6 +93,7 @@
 ||smarturl.it^$important
 ||spygasm.com^
 ||staticxx.facebook.com^
+||stun.l.google.com^
 ||suggestqueries.google.com^
 ||sweetsacademy.me^
 ||t1.streamango.com^
@@ -98,6 +104,7 @@
 ||tracking.marketing^
 ||tt2.openload.co^
 ||ttxsrl1.life^
+||update.googleapis.com^
 ||vamprog.site^
 ||verakiosk.com^
 ||vidlox.me^
