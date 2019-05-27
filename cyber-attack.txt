@@ -12,6 +12,7 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ||123clkforpro.me^
+||3585656d9351553f.com^
 ||a1a5ab31bcd1bc68.com^
 ||ad1data.com^
 ||adsense.com^
