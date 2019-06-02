@@ -66,6 +66,7 @@
 ||googleadservices.com^$important
 ||googleanalytics.com^$important
 ||googletagservices.com^$important
+||graph.facebook.com^
 ||hroderich-hep.com^
 ||imasdk.googleapis.com^$important
 ||ithoahie.com^
