@@ -1,9 +1,9 @@
 ! Homepage: http://www.majkassab.com/
 ! Title: Apple Filter List by Mohamad Kassab
-! Description: This filter blocks all google domain.
+! Description: This filter blocks some apple domain.
 !
 ! You can report unblocked content and direct general queries to us
-! via e-mail - majkassab+googleblocklist@majkassab.com
+! via e-mail - majkassab+appleblocklist@majkassab.com
 !
 ! License: We give everyone permission to modify, copy and distribute this list.
 !          While not mandatory, we would appreciate credit if you use this list. 
