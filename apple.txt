@@ -1,0 +1,21 @@
+! Homepage: http://www.majkassab.com/
+! Title: Apple Filter List by Mohamad Kassab
+! Description: This filter blocks all google domain.
+!
+! You can report unblocked content and direct general queries to us
+! via e-mail - majkassab+googleblocklist@majkassab.com
+!
+! License: We give everyone permission to modify, copy and distribute this list.
+!          While not mandatory, we would appreciate credit if you use this list. 
+!
+! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/apple.txt
+!-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+||api-glb-bln.smoot.apple.com^
+||api-glb-bln.smoot.apple.com^
+||api.smoot.apple.com^
+||cdn.smoot.apple.com^
+||iadsdk.apple.com^
+||partiality.itunes.apple.com^
+||radarsubmissions.apple.com^
+||securemetrics.apple.com^
+||swscan.apple.com^
