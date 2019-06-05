@@ -1,6 +1,5 @@
 ! Homepage: http://www.majkassab.com/
-! Title: Cyber attack List by Mohamad Kassab
-! Last modified: 20 May 2019
+! Title: Cyber attack Filter List by Mohamad Kassab
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
 ! You can report unblocked content and direct general queries to us
@@ -46,6 +45,7 @@
 ||directservers.online^
 ||dl.google.com^
 ||doubleclick.net^$important
+||downloadsdir.com^
 ||dreamdem.com^
 ||dsp.wtf^$important
 ||dynsrvbaa.com^
@@ -74,6 +74,7 @@
 ||kromtech.net^
 ||leoneaningtoldre.pro^
 ||litix.io^
+||macinside.info^
 ||mackeeper.com^
 ||magnetrack.klangoo.com^
 ||mixpanel.com^
@@ -93,6 +94,7 @@
 ||pushedwebnews.com^
 ||pushit.work^$important
 ||qwepop.site^$important
+||serverdowndirect.com^
 ||showmoviesonline.club^
 ||smarturl.it^$important
 ||spygasm.com^
@@ -109,6 +111,7 @@
 ||tt2.openload.co^
 ||ttxsrl1.life^
 ||update.googleapis.com^
+||utwiretrab.info^
 ||vamprog.site^
 ||verakiosk.com^
 ||vidlox.me^
