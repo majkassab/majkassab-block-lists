@@ -22,7 +22,6 @@
 ||adtechus.com^
 ||advertising.com^
 ||adwords.com^
-||apis.google.com^
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
