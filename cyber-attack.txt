@@ -110,7 +110,6 @@
 ||tracking.marketing^
 ||tt2.openload.co^
 ||ttxsrl1.life^
-||update.googleapis.com^
 ||utwiretrab.info^
 ||vamprog.site^
 ||verakiosk.com^
