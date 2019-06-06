@@ -43,7 +43,6 @@
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
 ||directservers.online^
-||dl.google.com^
 ||doubleclick.net^$important
 ||downloadsdir.com^
 ||dreamdem.com^
