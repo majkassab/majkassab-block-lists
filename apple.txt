@@ -10,7 +10,6 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/apple.txt
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||api-glb-bln.smoot.apple.com^
 ||smoot.apple.com^
 ||iadsdk.apple.com^
 ||partiality.itunes.apple.com^
