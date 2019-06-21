@@ -13,7 +13,7 @@
 #Google recaptcha Exception
 @@||www.google.com/recaptcha/*
 @@||www.gstatic.com/recaptcha/*
-@@||www.google.com/js/bg/rROqgnstbGbAcC5_Svz1_242pumi_kLVAcB0RrQ85SE.js$script,domain=www.google.com
+@@||www.google.com/js/bg/*$script,domain=www.google.com
 # Google Fonts Exception
 @@||fonts.googleapis.com/css$stylesheet
 @@||fonts.gstatic.com^$font
