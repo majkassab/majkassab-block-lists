@@ -25,6 +25,7 @@
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
+||bestmacutils.club^
 ||bigcoin.io^$important
 ||caius-pal.com^
 ||cheapairlinestickets.fun^
@@ -42,6 +43,7 @@
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
 ||directservers.online^
+||dm8uxnx87nm6o.cloudfront.net^
 ||doubleclick.net^$important
 ||downloadsdir.com^
 ||dreamdem.com^
@@ -105,6 +107,7 @@
 ||thesandonesof.info^
 ||today-prizes.club^
 ||tonstiparro.info^
+||trackerclick.com^
 ||tracking.marketing^
 ||tt2.openload.co^
 ||ttxsrl1.life^
@@ -116,3 +119,4 @@
 ||wistia.com^
 ||worldssl.net^
 ||xilbalar.com^
+
