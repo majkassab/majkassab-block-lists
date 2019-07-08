@@ -13,8 +13,12 @@
 ||123clkforpro.me^
 ||35.239.20.234^
 ||3585656d9351553f.com^
+||41df76c67812005c.com^
 ||4ukqzi8d7l.com^
+||6868bbe42af8e518.com^
+||7667bab1751ff777.com^
 ||a1a5ab31bcd1bc68.com^
+||aa53df329975c325.com^
 ||ad1data.com^
 ||adsense.com^
 ||adservice.google.com.lb^$important
@@ -22,9 +26,11 @@
 ||adtechus.com^
 ||advertising.com^
 ||adwords.com^
+||ae25079147984d4d.com^
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
+||b60228e270e363f6.com^
 ||bestmacutils.club^
 ||bigcoin.io^$important
 ||caius-pal.com^
@@ -42,6 +48,7 @@
 ||dairouzy.net^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
+||dilruwha.net^
 ||directservers.online^
 ||dm8uxnx87nm6o.cloudfront.net^
 ||doubleclick.net^$important
@@ -91,13 +98,16 @@
 ||owox.com^
 ||ozonestsscareer.info^
 ||pegloang.com^
+||phengung.net^
 ||postquare.com^
 ||preskalyn.com^
 ||pushalert.co^
+||pushanert.com^
 ||pushedwebnews.com^
 ||pushit.work^$important
 ||qwepop.site^$important
 ||remembergirl.com^
+||rinsouxy.com^
 ||serverdowndirect.com^
 ||showmoviesonline.club^
 ||smarturl.it^$important
@@ -109,6 +119,7 @@
 ||t1.streamango.com^
 ||tesseradigital.com^
 ||thesandonesof.info^
+||thikraik.net^
 ||today-prizes.club^
 ||tonstiparro.info^
 ||trackerclick.com^
@@ -123,4 +134,5 @@
 ||wistia.com^
 ||witalfieldt.com^
 ||worldssl.net^
+||www.google.com/favicon.ico$popup
 ||xilbalar.com^
