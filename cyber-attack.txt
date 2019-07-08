@@ -52,6 +52,7 @@
 ||e6081b73afec581f.com^
 ||elfishawy.com^
 ||enoughts.info^
+||erowredsigo.info^
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
 ||fonts.googleapis.com^
@@ -67,6 +68,7 @@
 ||googleanalytics.com^$important
 ||googletagservices.com^$important
 ||graph.facebook.com^
+||hetontbetca.info^
 ||hroderich-hep.com^
 ||imasdk.googleapis.com^$important
 ||ithoahie.com^
@@ -85,6 +87,7 @@
 ||nythatspartaund.info^
 ||offerteonline2020.xyz^
 ||oneimpress.io^
+||overhedtrew.info^
 ||owox.com^
 ||ozonestsscareer.info^
 ||pegloang.com^
@@ -94,6 +97,7 @@
 ||pushedwebnews.com^
 ||pushit.work^$important
 ||qwepop.site^$important
+||remembergirl.com^
 ||serverdowndirect.com^
 ||showmoviesonline.club^
 ||smarturl.it^$important
@@ -117,6 +121,6 @@
 ||vidlox.me^
 ||wickyad.com^
 ||wistia.com^
+||witalfieldt.com^
 ||worldssl.net^
 ||xilbalar.com^
-
