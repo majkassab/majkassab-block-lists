@@ -11,11 +11,16 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/facebook.txt
 !
 ||facebook.com^
+||facebook.net.edgekey.net^
 ||facebook.net^
+||fb.com^
+||fb.me^
+||fbcdn-profile-a.akamaihd.net^
 ||fbcdn.com^
 ||fbcdn.net^
 ||fbsbx.com^
 ||fbsbx.net^
-||messenger.com^
 ||m.me^
-||fb.com^
+||messenger.com^
+||tfbnw.com^
+||tfbnw.net^
