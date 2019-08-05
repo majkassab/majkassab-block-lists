@@ -35,6 +35,7 @@
 ||bigcoin.io^$important
 ||caius-pal.com^
 ||cheapairlinestickets.fun^
+||cjl58f3agc.com^
 ||clients1.google.com^
 ||clients2.google.com^
 ||clients3.google.com^
@@ -45,6 +46,7 @@
 ||connectivitycheck.gstatic.com^
 ||convertbox.com^
 ||crashlytics.com^
+||d1deyakgb8r8qn.cloudfront.net^
 ||dairouzy.net^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
@@ -91,6 +93,7 @@
 ||mtalk.google.com^
 ||mybestdc.com^
 ||naustoch.net^
+||nhpfvdlbjg.com^
 ||nythatspartaund.info^
 ||offerteonline2020.xyz^
 ||oneimpress.io^
@@ -134,5 +137,4 @@
 ||wistia.com^
 ||witalfieldt.com^
 ||worldssl.net^
-||www.google.com/favicon.ico$popup
 ||xilbalar.com^
