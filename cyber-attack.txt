@@ -117,6 +117,7 @@
 ||spygasm.com^
 ||staticxx.facebook.com^
 ||stun.l.google.com^
+||suchadeal.org^
 ||suggestqueries.google.com^
 ||sweetsacademy.me^
 ||t1.streamango.com^
@@ -130,6 +131,7 @@
 ||tt2.openload.co^
 ||ttxsrl1.life^
 ||utwiretrab.info^
+||vaipsona.com^
 ||vamprog.site^
 ||verakiosk.com^
 ||vidlox.me^
