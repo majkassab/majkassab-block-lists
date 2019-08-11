@@ -27,6 +27,7 @@
 ||advertising.com^
 ||adwords.com^
 ||ae25079147984d4d.com^
+||af5.club^
 ||app-measurement.com^
 ||appsflyer.com^
 ||b3z29k1uxb.com^
@@ -41,6 +42,7 @@
 ||clients3.google.com^
 ||clients5.google.com^
 ||coddict.com^
+||collecting.click^
 ||com-fast.live^$important
 ||connect.facebook.net^
 ||connectivitycheck.gstatic.com^
@@ -65,6 +67,8 @@
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
 ||fonts.googleapis.com^
+||fonts.gstatic.com^
+||free-downloads.online^
 ||funtikapa.info^$important
 ||fwmrm.net^
 ||getmackeepersoftpro.xyz^
@@ -113,6 +117,7 @@
 ||rinsouxy.com^
 ||serverdowndirect.com^
 ||showmoviesonline.club^
+||sib3stway.com^
 ||smarturl.it^$important
 ||spygasm.com^
 ||staticxx.facebook.com^
@@ -122,6 +127,7 @@
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tesseradigital.com^
+||th1sib3stway.com^
 ||thesandonesof.info^
 ||thikraik.net^
 ||today-prizes.club^
