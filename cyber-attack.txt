@@ -94,8 +94,10 @@
 ||magnetrack.klangoo.com^
 ||mixpanel.com^
 ||mousheen.net^
+||mshahadah.com^
 ||mtalk.google.com^
 ||mybestdc.com^
+||myll.me^
 ||naustoch.net^
 ||nhpfvdlbjg.com^
 ||nythatspartaund.info^
