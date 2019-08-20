@@ -20,6 +20,7 @@
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
 ||ad1data.com^
+||ads2.uptobox.com^
 ||adsense.com^
 ||adservice.google.com.lb^$important
 ||adservice.google.com^$important
@@ -30,6 +31,7 @@
 ||af5.club^
 ||app-measurement.com^
 ||appsflyer.com^
+||asdad.xyz^
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
 ||bestmacutils.club^
@@ -105,6 +107,7 @@
 ||oneimpress.io^
 ||overhedtrew.info^
 ||owox.com^
+||ozewuxuxc.pw^
 ||ozonestsscareer.info^
 ||pegloang.com^
 ||phengung.net^
@@ -148,3 +151,4 @@
 ||witalfieldt.com^
 ||worldssl.net^
 ||xilbalar.com^
+||yvim.top^
