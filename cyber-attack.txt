@@ -21,16 +21,19 @@
 ||aa53df329975c325.com^
 ||ad1data.com^
 ||ads2.uptobox.com^
+||ads4art.com^
 ||adsense.com^
 ||adservice.google.com.lb^$important
 ||adservice.google.com^$important
 ||adtechus.com^
+||adtng.com^
 ||advertising.com^
 ||adwords.com^
 ||ae25079147984d4d.com^
 ||af5.club^
 ||app-measurement.com^
 ||appsflyer.com^
+||aquwysapikin.tk^
 ||asdad.xyz^
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
@@ -39,6 +42,7 @@
 ||caius-pal.com^
 ||cheapairlinestickets.fun^
 ||cjl58f3agc.com^
+||click.dji.com^
 ||clients1.google.com^
 ||clients2.google.com^
 ||clients3.google.com^
@@ -73,6 +77,8 @@
 ||free-downloads.online^
 ||funtikapa.info^$important
 ||fwmrm.net^
+||gamefabrique.com^
+||games4windownloads.com^
 ||getmackeepersoftpro.xyz^
 ||gitcdn.xyz^
 ||gleechie.net^
@@ -94,6 +100,7 @@
 ||macinside.info^
 ||mackeeper.com^
 ||magnetrack.klangoo.com^
+||matbit.net^
 ||mixpanel.com^
 ||mousheen.net^
 ||mshahadah.com^
@@ -121,6 +128,7 @@
 ||remembergirl.com^
 ||rinsouxy.com^
 ||serverdowndirect.com^
+||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||smarturl.it^$important
@@ -141,11 +149,13 @@
 ||tracking.marketing^
 ||tt2.openload.co^
 ||ttxsrl1.life^
+||ufilydudyj.tk^
 ||utwiretrab.info^
 ||vaipsona.com^
 ||vamprog.site^
 ||verakiosk.com^
 ||vidlox.me^
+||vnrherdsxr.com^
 ||wickyad.com^
 ||wistia.com^
 ||witalfieldt.com^
