@@ -106,6 +106,7 @@
 ||iadsdk.apple.com^
 ||imasdk.googleapis.com^$important
 ||intellitxt.com^
+||iphonesubmissions.apple.com^
 ||ithoahie.com^
 ||kalibusensuran.info^
 ||kimsacka.net^
@@ -142,6 +143,7 @@
 ||pushedwebnews.com^
 ||pushit.work^$important
 ||qwepop.site^$important
+||radarsubmissions.apple.com^
 ||remembergirl.com^
 ||rinsouxy.com^
 ||saidbourhani.com^
