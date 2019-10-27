@@ -71,6 +71,7 @@
 ||dilruwha.net^
 ||directservers.online^
 ||dm8uxnx87nm6o.cloudfront.net^
+||dnn506yrbagrg.cloudfront.net^
 ||doubleclick.net^$important
 ||downloadsdir.com^
 ||dreamdem.com^
@@ -102,6 +103,7 @@
 ||graph.facebook.com^
 ||hetontbetca.info^
 ||hroderich-hep.com^
+||iadsdk.apple.com^
 ||imasdk.googleapis.com^$important
 ||intellitxt.com^
 ||ithoahie.com^
@@ -129,6 +131,7 @@
 ||owox.com^
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
+||partiality.itunes.apple.com^
 ||pegloang.com^
 ||phengung.net^
 ||postquare.com^
@@ -147,6 +150,7 @@
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||smarturl.it^$important
+||sponsorpay.com^
 ||sporters1.com^
 ||spygasm.com^
 ||staticxx.facebook.com^
