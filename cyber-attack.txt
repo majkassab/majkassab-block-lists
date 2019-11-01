@@ -20,6 +20,7 @@
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
 ||ad1data.com^
+||addthis.com^
 ||ads-twitter.com^
 ||ads2.uptobox.com^
 ||ads4art.com^
@@ -41,9 +42,11 @@
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
 ||barbara.com.br^
+||beeaimaid.com^
 ||bestmacutils.club^
 ||bigcoin.io^
 ||caius-pal.com^
+||chartbeat.net^
 ||cheapairlinestickets.fun^
 ||cjl58f3agc.com^
 ||click.dji.com^
@@ -51,6 +54,7 @@
 ||clients2.google.com^
 ||clients3.google.com^
 ||clients5.google.com^
+||clientservices.googleapis.com^
 ||cnrs.fr^
 ||coddict.com^
 ||collecting.click^
@@ -70,6 +74,7 @@
 ||demand.supply^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
+||dgmedia.info^
 ||digitalmediashop.biz^
 ||dilruwha.net^
 ||directservers.online^
@@ -108,7 +113,9 @@
 ||guzzoni.apple.com^
 ||hetontbetca.info^
 ||hroderich-hep.com^
+||hs-analytics.net^
 ||iadsdk.apple.com^
+||ichlnk.com^
 ||imasdk.googleapis.com^
 ||intellitxt.com^
 ||iphonesubmissions.apple.com^
@@ -121,6 +128,7 @@
 ||macinside.info^
 ||mackeeper.com^
 ||magnetrack.klangoo.com^
+||marketo.net^
 ||matbit.net^
 ||mixpanel.com^
 ||mousheen.net^
@@ -140,6 +148,7 @@
 ||partiality.itunes.apple.com^
 ||pegloang.com^
 ||phengung.net^
+||play.google.com^
 ||postquare.com^
 ||preskalyn.com^
 ||propellerclick.com
@@ -151,12 +160,15 @@
 ||radarsubmissions.apple.com^
 ||remembergirl.com^
 ||rinsouxy.com^
+||safebrowsing.googleapis.com^
 ||saidbourhani.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||smarturl.it^
+||smoot.apple.com^
+||somebook.tk^
 ||sponsorpay.com^
 ||sporters1.com^
 ||spygasm.com^
