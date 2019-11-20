@@ -36,8 +36,11 @@
 ||af5.club^
 ||amazon-adsystem.com^
 ||antburape.club^
+||anyaxeash.club^
+||apeareand.club^
 ||app-measurement.com^
 ||appsflyer.com^
+||aptaniale.club^
 ||aquwysapikin.tk^
 ||arkbuyarm.club^
 ||asdad.xyz^
@@ -73,7 +76,9 @@
 ||crashlytics.com^
 ||cryaptall.club^
 ||cse.google.com^
+||cudalbapt.com^
 ||currencyinfo.net^
+||curriculture.com^
 ||customlogocompany.press^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
@@ -186,6 +191,7 @@
 ||radarsubmissions.apple.com^
 ||remembergirl.com^
 ||rinsouxy.com^
+||routeserve.info^
 ||safebrowsing.googleapis.com^
 ||saidbourhani.com^
 ||scorecardresearch.com^
