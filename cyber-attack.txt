@@ -19,6 +19,7 @@
 ||7667bab1751ff777.com^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
+||accounts.google.com^
 ||ad1data.com^
 ||addthis.com^
 ||ads-twitter.com^
@@ -34,6 +35,7 @@
 ||ae25079147984d4d.com^
 ||af5.club^
 ||amazon-adsystem.com^
+||antburape.club^
 ||app-measurement.com^
 ||appsflyer.com^
 ||aquwysapikin.tk^
@@ -62,6 +64,8 @@
 ||collecting.click^
 ||collector.githubapp.com^
 ||com-fast.live^
+||conde.io^
+||condenastdigital.com^
 ||connect.facebook.net^
 ||connectivitycheck.gstatic.com^
 ||contentwritingsquare.com^
@@ -78,6 +82,7 @@
 ||d1mib12jcgwmnv.cloudfront.net^
 ||d1qk9ujrmkucbl.cloudfront.net^
 ||d1uw69x4c2zrim.cloudfront.net^
+||d1z2jf7jlzjs58.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
 ||d30gt5larl1k8h.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
@@ -132,6 +137,7 @@
 ||ichlnk.com^
 ||id.google.com^
 ||imasdk.googleapis.com^
+||indexww.com^
 ||intellitxt.com^
 ||iphonesubmissions.apple.com^
 ||ithoahie.com^
@@ -147,6 +153,7 @@
 ||marketo.net^
 ||matbit.net^
 ||mixpanel.com^
+||moatads.com^
 ||mousheen.net^
 ||mshahadah.com^
 ||mtalk.google.com^
@@ -165,6 +172,7 @@
 ||partiality.itunes.apple.com^
 ||pegloang.com^
 ||phengung.net^
+||play.google.com/^
 ||play.google.com^
 ||postquare.com^
 ||preskalyn.com^
@@ -180,6 +188,7 @@
 ||rinsouxy.com^
 ||safebrowsing.googleapis.com^
 ||saidbourhani.com^
+||scorecardresearch.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
 ||showmoviesonline.club^
@@ -211,6 +220,7 @@
 ||tools.google.com^
 ||trackerclick.com^
 ||tracking.marketing^
+||translate.googleapis.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
 ||ufilydudyj.tk^
