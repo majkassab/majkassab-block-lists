@@ -13,6 +13,7 @@
 ||123clkforpro.me^
 ||35.239.20.234^
 ||3585656d9351553f.com^
+||411playz.com^
 ||41df76c67812005c.com^
 ||4ukqzi8d7l.com^
 ||6868bbe42af8e518.com^
@@ -46,6 +47,8 @@
 ||asdad.xyz^
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
+||babyboomboomads.com^
+||balvalur.com^
 ||barbara.com.br^
 ||beeaimaid.com^
 ||bestmacutils.club^
@@ -183,6 +186,7 @@
 ||preskalyn.com^
 ||profit-bitcoin-online.com^
 ||propellerclick.com
+||propellerclick.com^
 ||pushalert.co^
 ||pushanert.com^
 ||pushedwebnews.com^
