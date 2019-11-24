@@ -115,6 +115,8 @@
 ||elfishawy.com^
 ||enoughts.info^
 ||erowredsigo.info^
+||exoclick.com^
+||exosrv.com^
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
 ||fonts.googleapis.com^
@@ -138,6 +140,7 @@
 ||googletagservices.com^
 ||graph.facebook.com^
 ||guzzoni.apple.com^
+||hd149026b.com^
 ||hetontbetca.info^
 ||hroderich-hep.com^
 ||hs-analytics.net^
@@ -233,6 +236,7 @@
 ||translate.googleapis.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
+||tubecorporate.com^
 ||ufilydudyj.tk^
 ||uinames.com^
 ||utwiretrab.info^
@@ -246,6 +250,7 @@
 ||wistia.com^
 ||witalfieldt.com^
 ||worldssl.net^
+||wpu.sh^
 ||xilbalar.com^
 ||yadro.ru^
 ||yvim.top^
