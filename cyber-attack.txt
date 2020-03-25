@@ -164,6 +164,7 @@
 ||ichlnk.com^
 ||id.google.com^
 ||imasdk.googleapis.com^
+||incoming.telemetry.mozilla.org^
 ||indexww.com^
 ||infinity-consult.de^
 ||intellitxt.com^
@@ -200,6 +201,7 @@
 ||nhpfvdlbjg.com^
 ||nythatspartaund.info^
 ||offerteonline2020.xyz^
+||onclickmega.com^
 ||oneimpress.io^
 ||onesignal.com^
 ||onlineking.live^
