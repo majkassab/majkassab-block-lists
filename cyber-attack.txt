@@ -12,6 +12,7 @@
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ||123clkforpro.me^
 ||1treebridge.com^
+||1ts06.top^
 ||35.232.188.118^
 ||35.239.20.234^
 ||3585656d9351553f.com^
@@ -26,12 +27,12 @@
 ||ad1data.com^
 ||addthis.com^
 ||adinplay.com^
-||ads-twitter.com^
 ||ads2.uptobox.com^
 ||ads4art.com^
 ||adsense.com^
 ||adservice.google.com.lb^
 ||adservice.google.com^
+||ads-twitter.com^
 ||adtechus.com^
 ||adtng.com^
 ||adultsense.co^
@@ -51,6 +52,7 @@
 ||alert-phone.club^
 ||amazon-adsystem.com^
 ||ampproject.org^
+||aneseaticu.com^
 ||antburape.club^
 ||anyaxeash.club^
 ||apeareand.club^
@@ -96,6 +98,7 @@
 ||contentwritingsquare.com^
 ||convertbox.com^
 ||crashlytics.com^
+||crossover.com^
 ||crwdcntrl.net^
 ||cryaptall.club^
 ||cse.google.com^
@@ -159,11 +162,10 @@
 ||gleechie.net^
 ||go-ads.live^
 ||gooescorts.com^
-||google-analytics.com^
 ||googleadapis.l.google.com^
 ||googleadservices.com^
 ||googleanalytics.com^
-||googlehosted.com^
+||google-analytics.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -179,6 +181,7 @@
 ||iadsdk.apple.com^
 ||ichlnk.com^
 ||id.google.com^
+||ili9.co^
 ||imasdk.googleapis.com^
 ||important-notices.com^
 ||indexww.com^
@@ -191,6 +194,7 @@
 ||kalibusensuran.info^
 ||kimsacka.net^
 ||kromtech.net^
+||leadzuaf.com^
 ||leoneaningtoldre.pro^
 ||litix.io^
 ||localnewsdiary.today^
@@ -354,3 +358,4 @@
 ||xilbalar.com^
 ||yadro.ru^
 ||yvim.top^
+||z3dmbpl6309s.com^
