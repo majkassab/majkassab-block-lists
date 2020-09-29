@@ -27,12 +27,12 @@
 ||ad1data.com^
 ||addthis.com^
 ||adinplay.com^
+||ads-twitter.com^
 ||ads2.uptobox.com^
 ||ads4art.com^
 ||adsense.com^
 ||adservice.google.com.lb^
 ||adservice.google.com^
-||ads-twitter.com^
 ||adtechus.com^
 ||adtng.com^
 ||adultsense.co^
@@ -66,12 +66,15 @@
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
 ||babyboomboomads.com^
+||badleasump.cam^
 ||balvalur.com^
 ||barbara.com.br^
 ||beeaimaid.com^
 ||beirutbedpage.com^
+||bemobtrk.com^
 ||bestmacutils.club^
 ||bigcoin.io^
+||bussaidbag.casa^
 ||caius-pal.com^
 ||cataspboa.site^
 ||chartbeat.net^
@@ -162,10 +165,10 @@
 ||gleechie.net^
 ||go-ads.live^
 ||gooescorts.com^
+||google-analytics.com^
 ||googleadapis.l.google.com^
 ||googleadservices.com^
 ||googleanalytics.com^
-||google-analytics.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -179,6 +182,7 @@
 ||hroderich-hep.com^
 ||hs-analytics.net^
 ||iadsdk.apple.com^
+||icedewear.site^
 ||ichlnk.com^
 ||id.google.com^
 ||ili9.co^
@@ -197,6 +201,7 @@
 ||leadzuaf.com^
 ||leoneaningtoldre.pro^
 ||litix.io^
+||litleeemo.com^
 ||localnewsdiary.today^
 ||loteriadenavidad.com^
 ||macinside.info^
@@ -212,6 +217,7 @@
 ||mixpanel.com^
 ||moatads.com^
 ||mousheen.net^
+||mrjb7hvcks.com^
 ||mshahadah.com^
 ||mtalk.google.com^
 ||mybestdc.com^
@@ -245,6 +251,7 @@
 ||pancake.apple.com^
 ||pdo7e.com^
 ||pegloang.com^
+||pepnerdmime.cam^
 ||phengung.net^
 ||phone-notification.com^
 ||play.google.com/^
@@ -252,6 +259,7 @@
 ||post2.social^
 ||postquare.com^
 ||preskalyn.com^
+||privacy-center.org^
 ||profit-bitcoin-online.com^
 ||projobnetwork4.com^
 ||propellerclick.com
@@ -313,6 +321,7 @@
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tags.tiqcdn.com^
+||tearsatecagey.work^
 ||telemetry.mozilla.org^
 ||terttalkinhitin.pro^
 ||tesseradigital.com^
@@ -345,6 +354,7 @@
 ||vidoomy.com^
 ||vnrherdsxr.com^
 ||waistbathroom.xyz^
+||warten-sie-mal.xyz^
 ||waynagmay.com^
 ||wctrk.com^
 ||wecanhelp.org^
