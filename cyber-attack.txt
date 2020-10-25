@@ -31,8 +31,8 @@
 ||ads2.uptobox.com^
 ||ads4art.com^
 ||adsense.com^
-||adservice.google.com.lb^
 ||adservice.google.com^
+||adservice.google.com.lb^
 ||adtechus.com^
 ||adtng.com^
 ||adultsense.co^
@@ -50,6 +50,7 @@
 ||alert-fixer.club^
 ||alert-iphone.club^
 ||alert-phone.club^
+||aliyuncs.com^
 ||amazon-adsystem.com^
 ||ampproject.org^
 ||aneseaticu.com^
@@ -67,6 +68,7 @@
 ||b60228e270e363f6.com^
 ||babyboomboomads.com^
 ||badleasump.cam^
+||bainushe.com^
 ||balvalur.com^
 ||banesnorttat.cam^
 ||barbara.com.br^
@@ -107,6 +109,7 @@
 ||contentwritingsquare.com^
 ||convertbox.com^
 ||crashlytics.com^
+||creamssicsite.com^
 ||crossover.com^
 ||crrepo.com^
 ||crwdcntrl.net^
@@ -130,8 +133,10 @@
 ||dairouzy.net^
 ||deloplen.com^
 ||demand.supply^
+||demonstrator.world^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
+||dgjqr9zqnccu2.cloudfront.net^
 ||dgmedia.info^
 ||digitalmediashop.biz^
 ||dilruwha.net^
@@ -164,6 +169,7 @@
 ||fbcdn2.com^
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
+||findthegreatvideosfirst.info^
 ||fonts.google.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
@@ -205,6 +211,7 @@
 ||imstks.com^
 ||indexww.com^
 ||infinity-consult.de^
+||inpagepush.com^
 ||intellitxt.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
@@ -231,6 +238,7 @@
 ||metrics.apple.com^
 ||metrics.icloud.com^
 ||mixpanel.com^
+||mmstat.com^
 ||moatads.com^
 ||mofoplay.com^
 ||mousheen.net^
@@ -258,13 +266,16 @@
 ||notification-iphone.club^
 ||nunhoefey.com^
 ||nythatspartaund.info^
+||offerimage.com^
 ||offerteonline2020.xyz^
 ||onclickgenius.com^
 ||onclickmega.com^
 ||oneimpress.io^
 ||onesignal.com^
 ||onlineking.live^
+||onstunkyr.com^
 ||open-fast.com^
+||orientation.world^
 ||overhedtrew.info^
 ||owox.com^
 ||ozewuxuxc.pw^
@@ -275,8 +286,8 @@
 ||pepnerdmime.cam^
 ||phengung.net^
 ||phone-notification.com^
-||play.google.com/^
 ||play.google.com^
+||play.google.com/^
 ||playgr8.com^
 ||post2.social^
 ||postquare.com^
@@ -286,7 +297,6 @@
 ||producebreed.com^
 ||profit-bitcoin-online.com^
 ||projobnetwork4.com^
-||propellerclick.com
 ||propellerclick.com^
 ||protection-booster.fun^
 ||protection-booster.site^
@@ -310,6 +320,7 @@
 ||pushanert.com^
 ||pushedwebnews.com^
 ||pushit.work^
+||quarrel.world^
 ||qwepop.site^
 ||recruitarab.com^
 ||redmail01.com^
@@ -346,8 +357,10 @@
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tags.tiqcdn.com^
+||taobao.com^
 ||tearsatecagey.work^
 ||telemetry.mozilla.org^
+||temperature.world^
 ||terttalkinhitin.pro^
 ||tesseradigital.com^
 ||th1sib3stway.com^
@@ -375,7 +388,9 @@
 ||utwiretrab.info^
 ||vaipsona.com^
 ||vamprog.site^
+||vcommission.com^
 ||verakiosk.com^
+||videomytube.ga^
 ||vidlox.me^
 ||vidoomy.com^
 ||vnrherdsxr.com^
@@ -385,11 +400,13 @@
 ||wctrk.com^
 ||wecanhelp.org^
 ||wickyad.com^
+||widget.trustpilot.com^
 ||wistia.com^
 ||witalfieldt.com^
 ||worldssl.net^
 ||wpu.sh^
 ||wurfl.io^
+||www-google-analytics.l.google.com^
 ||www.google.com.lb^
 ||xilbalar.com^
 ||yadro.ru^
