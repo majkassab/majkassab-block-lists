@@ -211,11 +211,13 @@
 ||imstks.com^
 ||indexww.com^
 ||infinity-consult.de^
+||infopicked.com^
 ||inpagepush.com^
 ||intellitxt.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
 ||ithoahie.com^
+||itnuzleafan.com^
 ||jotpoolwarren.com^
 ||jubnaadserve.com^
 ||kalibusensuran.info^
@@ -344,6 +346,7 @@
 ||smoot.apple.com^
 ||solutionsmediabest.com^
 ||somebook.tk^
+||spasbatwit.icu^
 ||sponsorpay.com^
 ||sporters1.com^
 ||spygasm.com^
@@ -399,6 +402,7 @@
 ||waynagmay.com^
 ||wctrk.com^
 ||wecanhelp.org^
+||whimsoplynx.com^
 ||wickyad.com^
 ||widget.trustpilot.com^
 ||wistia.com^
