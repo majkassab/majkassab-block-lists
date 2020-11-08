@@ -141,6 +141,7 @@
 ||demonstrator.world^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
+||dexchangegenius.com^
 ||dgjqr9zqnccu2.cloudfront.net^
 ||dgmedia.info^
 ||digitalmediashop.biz^
@@ -224,6 +225,7 @@
 ||infopicked.com^
 ||inpagepush.com^
 ||intellitxt.com^
+||iossecure.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
 ||ithoahie.com^
