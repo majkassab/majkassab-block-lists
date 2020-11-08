@@ -27,6 +27,7 @@
 ||ad1data.com^
 ||addthis.com^
 ||adinplay.com^
+||adpushup.com^
 ||ads-twitter.com^
 ||ads2.uptobox.com^
 ||ads4art.com^
@@ -50,6 +51,7 @@
 ||alert-fixer.club^
 ||alert-iphone.club^
 ||alert-phone.club^
+||alexametrics.com^
 ||aliyuncs.com^
 ||amazon-adsystem.com^
 ||ampproject.org^
@@ -63,6 +65,7 @@
 ||aquwysapikin.tk^
 ||arkbuyarm.club^
 ||asdad.xyz^
+||awlaybob.com^
 ||awstrack.me^
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
@@ -73,12 +76,14 @@
 ||banesnorttat.cam^
 ||barbara.com.br^
 ||bcnmonetize.com^
+||bebreloomr.com^
 ||bedrapiona.com^
 ||beeaimaid.com^
 ||beirutbedpage.com^
 ||bemobtrk.com^
 ||bestaryua.com^
 ||bestmacutils.club^
+||bet365.com^
 ||bigcoin.io^
 ||boyaidare.club^
 ||bussaidbag.casa^
@@ -146,9 +151,11 @@
 ||dnn506yrbagrg.cloudfront.net^
 ||dosveggietotem.casa^
 ||doubleclick.net^
+||doubleverify.com^
 ||downloadsdir.com^
 ||dreamdem.com^
 ||dsp.wtf^
+||dtscout.com^
 ||dvdsm0rlx65fo.cloudfront.net^
 ||dynsrvbaa.com^
 ||dynsrvcab.com^
@@ -192,12 +199,14 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googlezip.net^
+||graizoah.com^
 ||graph.facebook.com^
 ||gvt1.com^
 ||gvt2.com^
 ||gvt3.com^
 ||hd149026b.com^
 ||hetontbetca.info^
+||histats.com^
 ||hroderich-hep.com^
 ||hs-analytics.net^
 ||iadsdk.apple.com^
@@ -209,6 +218,7 @@
 ||imasdk.googleapis.com^
 ||important-notices.com^
 ||imstks.com^
+||in-page-push.com^
 ||indexww.com^
 ||infinity-consult.de^
 ||infopicked.com^
@@ -225,10 +235,13 @@
 ||kromtech.net^
 ||leadzuaf.com^
 ||leoneaningtoldre.pro^
+||liadm.com^
+||lijit.com^
 ||litix.io^
 ||litleeemo.com^
 ||localnewsdiary.today^
 ||loteriadenavidad.com^
+||louchees.net^
 ||macinside.info^
 ||mackeeper.com^
 ||mackeeperaffiliates.com^
@@ -237,8 +250,10 @@
 ||marketo.net^
 ||maropost.com^
 ||matbit.net^
+||mawlaybob.com^
 ||metrics.apple.com^
 ||metrics.icloud.com^
+||milasktic.com^
 ||mixpanel.com^
 ||mmstat.com^
 ||moatads.com^
@@ -278,6 +293,7 @@
 ||onstunkyr.com^
 ||open-fast.com^
 ||orientation.world^
+||outchinchour.com^
 ||overhedtrew.info^
 ||owox.com^
 ||ozewuxuxc.pw^
@@ -328,8 +344,11 @@
 ||redmail01.com^
 ||remembergirl.com^
 ||rinsouxy.com^
+||rkdms.com^
 ||routeserve.info^
+||rtmark.net^
 ||rumahweb.com^
+||s-onetag.com^
 ||safebrowsing.googleapis.com^
 ||saidbourhani.com^
 ||scorecardresearch.com^
@@ -342,6 +361,7 @@
 ||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
+||simpli.fi^
 ||smarturl.it^
 ||smoot.apple.com^
 ||solutionsmediabest.com^
@@ -351,6 +371,7 @@
 ||sporters1.com^
 ||spygasm.com^
 ||statcounter.com^
+||statically.io^
 ||staticxx.facebook.com^
 ||stats.wp.com^
 ||stun.l.google.com^
@@ -397,6 +418,7 @@
 ||vidlox.me^
 ||vidoomy.com^
 ||vnrherdsxr.com^
+||vpnadefenceplus.com^
 ||waistbathroom.xyz^
 ||warten-sie-mal.xyz^
 ||waynagmay.com^
