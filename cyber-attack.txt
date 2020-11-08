@@ -210,7 +210,6 @@
 ||histats.com^
 ||hroderich-hep.com^
 ||hs-analytics.net^
-||iadsdk.apple.com^
 ||icedewear.site^
 ||ichlnk.com^
 ||iclickcdn.com^
@@ -253,8 +252,6 @@
 ||maropost.com^
 ||matbit.net^
 ||mawlaybob.com^
-||metrics.apple.com^
-||metrics.icloud.com^
 ||milasktic.com^
 ||mixpanel.com^
 ||mmstat.com^
@@ -300,7 +297,6 @@
 ||owox.com^
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
-||pancake.apple.com^
 ||pdo7e.com^
 ||pegloang.com^
 ||pepnerdmime.cam^
@@ -358,14 +354,12 @@
 ||secured-device.club^
 ||secured-fix.club^
 ||secured-fixer.club^
-||securemetrics.apple.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||simpli.fi^
 ||smarturl.it^
-||smoot.apple.com^
 ||solutionsmediabest.com^
 ||somebook.tk^
 ||spasbatwit.icu^
@@ -419,6 +413,7 @@
 ||videomytube.ga^
 ||vidlox.me^
 ||vidoomy.com^
+||vipicmou.net^
 ||vnrherdsxr.com^
 ||vpnadefenceplus.com^
 ||waistbathroom.xyz^
