@@ -29,6 +29,7 @@
 ||adinplay.com^
 ||adpushup.com^
 ||ads-twitter.com^
+||ads.blue.ps^
 ||ads2.uptobox.com^
 ||ads4art.com^
 ||adsense.com^
@@ -55,6 +56,7 @@
 ||aliyuncs.com^
 ||amazon-adsystem.com^
 ||ampproject.org^
+||amung.us^
 ||aneseaticu.com^
 ||antburape.club^
 ||anyaxeash.club^
@@ -181,6 +183,7 @@
 ||fonts.google.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
+||free-4g.com^
 ||free-downloads.online^
 ||funtikapa.info^
 ||fwmrm.net^
@@ -208,12 +211,14 @@
 ||hd149026b.com^
 ||hetontbetca.info^
 ||histats.com^
+||hospedagemdesites.ws^
 ||hroderich-hep.com^
 ||hs-analytics.net^
 ||icedewear.site^
 ||ichlnk.com^
 ||iclickcdn.com^
 ||id.google.com^
+||idha.me^
 ||ili9.co^
 ||imasdk.googleapis.com^
 ||important-notices.com^
@@ -232,6 +237,7 @@
 ||jotpoolwarren.com^
 ||jubnaadserve.com^
 ||kalibusensuran.info^
+||katerigordas.pro^
 ||kimsacka.net^
 ||kromtech.net^
 ||leadzuaf.com^
@@ -257,6 +263,7 @@
 ||mmstat.com^
 ||moatads.com^
 ||mofoplay.com^
+||mouseflow.com^
 ||mousheen.net^
 ||mrjb7hvcks.com^
 ||mshahadah.com^
@@ -297,13 +304,13 @@
 ||owox.com^
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
+||paht.tech^
 ||pdo7e.com^
 ||pegloang.com^
 ||pepnerdmime.cam^
 ||phengung.net^
 ||phone-notification.com^
 ||play.google.com^
-||play.google.com/^
 ||playgr8.com^
 ||post2.social^
 ||postquare.com^
@@ -347,8 +354,8 @@
 ||rtmark.net^
 ||rumahweb.com^
 ||s-onetag.com^
-||safebrowsing.googleapis.com^
 ||saidbourhani.com^
+||saumooly.net^
 ||scorecardresearch.com^
 ||secured-cellphone.club^
 ||secured-device.club^
@@ -388,6 +395,7 @@
 ||the-profit-btc.com^
 ||thesandonesof.info^
 ||thikraik.net^
+||tns-counter.ru^
 ||today-prizes.club^
 ||tonstiparro.info^
 ||tools.google.com^
