@@ -10,6 +10,7 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+||102.250.4.251^
 ||123clkforpro.me^
 ||1treebridge.com^
 ||1ts06.top^
@@ -23,6 +24,7 @@
 ||7667bab1751ff777.com^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
+||acce8ce8a16054e7bbf5d2e4a659e60c-1243078787.eu-west-1.elb.amazonaws.com^
 ||activehosted.com^
 ||ad1data.com^
 ||addthis.com^
@@ -89,6 +91,7 @@
 ||bigcoin.io^
 ||boyaidare.club^
 ||bussaidbag.casa^
+||caderode.com.br^
 ||caius-pal.com^
 ||caradstag.casa^
 ||cataspboa.site^
@@ -196,6 +199,8 @@
 ||go-ads.live^
 ||gooescorts.com^
 ||google-analytics.com^
+||google.com^
+||google.com.lb^
 ||googleadapis.l.google.com^
 ||googleadservices.com^
 ||googleanalytics.com^
@@ -247,6 +252,7 @@
 ||litix.io^
 ||litleeemo.com^
 ||localnewsdiary.today^
+||logshipper.anghami.com^
 ||loteriadenavidad.com^
 ||louchees.net^
 ||macinside.info^
@@ -314,6 +320,7 @@
 ||playgr8.com^
 ||post2.social^
 ||postquare.com^
+||powerball.com^
 ||predictivdisplay.com^
 ||preskalyn.com^
 ||privacy-center.org^
@@ -356,6 +363,7 @@
 ||s-onetag.com^
 ||saidbourhani.com^
 ||saumooly.net^
+||sc-static.net^
 ||scorecardresearch.com^
 ||secured-cellphone.club^
 ||secured-device.club^
@@ -381,12 +389,14 @@
 ||suchadeal.org^
 ||suggestqueries.google.com^
 ||suitesbahrag.icu^
+||surge.sh^
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tags.tiqcdn.com^
 ||taobao.com^
 ||tearsatecagey.work^
 ||telemetry.mozilla.org^
+||telkomadsl.co.za^
 ||temperature.world^
 ||terttalkinhitin.pro^
 ||tesseradigital.com^
@@ -428,6 +438,7 @@
 ||warten-sie-mal.xyz^
 ||waynagmay.com^
 ||wctrk.com^
+||webmobrilz.co.in^
 ||wecanhelp.org^
 ||whimsoplynx.com^
 ||wickyad.com^
