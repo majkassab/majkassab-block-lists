@@ -22,6 +22,8 @@
 ||4ukqzi8d7l.com^
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
+||a1600.dscb.akamai.net^
+||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
 ||acce8ce8a16054e7bbf5d2e4a659e60c-1243078787.eu-west-1.elb.amazonaws.com^
@@ -60,6 +62,7 @@
 ||ampproject.org^
 ||amung.us^
 ||aneseaticu.com^
+||anghnewads.akamaized.net^
 ||antburape.club^
 ||anyaxeash.club^
 ||apeareand.club^
@@ -76,6 +79,7 @@
 ||babyboomboomads.com^
 ||badleasump.cam^
 ||bainushe.com^
+||baleiambwee.com^
 ||balvalur.com^
 ||banesnorttat.cam^
 ||barbara.com.br^
@@ -111,6 +115,7 @@
 ||coddict.com^
 ||collecting.click^
 ||collector.githubapp.com^
+||collector.raygun.io^
 ||com-fast.live^
 ||conde.io^
 ||condenastdigital.com^
@@ -131,6 +136,7 @@
 ||customlogocompany.press^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
+||d1bs4b7zdgd8l3.cloudfront.net^
 ||d1deyakgb8r8qn.cloudfront.net^
 ||d1jl096lp4cce0.cloudfront.net^
 ||d1mib12jcgwmnv.cloudfront.net^
@@ -199,7 +205,6 @@
 ||go-ads.live^
 ||gooescorts.com^
 ||google-analytics.com^
-||google.com.lb^
 ||googleadapis.l.google.com^
 ||googleadservices.com^
 ||googleanalytics.com^
@@ -314,6 +319,7 @@
 ||pegloang.com^
 ||pepnerdmime.cam^
 ||phengung.net^
+||phoenix.akamaized.net^
 ||phone-notification.com^
 ||play.google.com^
 ||playgr8.com^
@@ -351,6 +357,7 @@
 ||pushit.work^
 ||quarrel.world^
 ||qwepop.site^
+||raygun.io^
 ||recruitarab.com^
 ||redmail01.com^
 ||remembergirl.com^
@@ -381,13 +388,13 @@
 ||sporters1.com^
 ||spygasm.com^
 ||statcounter.com^
-||statically.io^
 ||staticxx.facebook.com^
 ||stats.wp.com^
 ||stun.l.google.com^
 ||suchadeal.org^
 ||suggestqueries.google.com^
 ||suitesbahrag.icu^
+||superonclick.com^
 ||surge.sh^
 ||sweetsacademy.me^
 ||t1.streamango.com^
