@@ -199,7 +199,6 @@
 ||go-ads.live^
 ||gooescorts.com^
 ||google-analytics.com^
-||google.com^
 ||google.com.lb^
 ||googleadapis.l.google.com^
 ||googleadservices.com^
