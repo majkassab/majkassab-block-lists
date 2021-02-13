@@ -126,6 +126,9 @@
 ||contentwritingsquare.com^
 ||convertbox.com^
 ||crashlytics.com^
+||crashlytics.l.google.com^
+||crashlytics1.l.google.com^
+||crashlytics2.l.google.com^
 ||creamssicsite.com^
 ||crossover.com^
 ||crrepo.com^
@@ -223,6 +226,7 @@
 ||hospedagemdesites.ws^
 ||hroderich-hep.com^
 ||hs-analytics.net^
+||hwcdn.net^
 ||icedewear.site^
 ||ichlnk.com^
 ||iclickcdn.com^
@@ -427,6 +431,7 @@
 ||tubecorporate.com^
 ||twinktube.com^
 ||txtfreesms.com^
+||typekit.net^
 ||ufilydudyj.tk^
 ||ufpcdn.com^
 ||uinames.com^
