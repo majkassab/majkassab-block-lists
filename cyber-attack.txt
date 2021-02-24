@@ -10,6 +10,8 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||123clkforpro.me^
 ||1treebridge.com^
@@ -344,6 +346,7 @@
 ||pegloang.com^
 ||pepnerdmime.cam^
 ||phengung.net^
+||phicdn.net^
 ||phone-notification.com^
 ||play.google.com^
 ||playgr8.com^
