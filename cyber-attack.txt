@@ -8,7 +8,7 @@
 ! License: We give everyone permission to modify, copy and distribute this list.
 !          While not mandatory, we would appreciate credit if you use this list. 
 !
-! Donate and Help me ( My Bitcoin Wallet ID: 12XLZgYbsFYukNxzzoaT9CMcqrgL5FV6Ut )
+! Donate and Help me ( My Bitcoin Wallet ID: 1Jm23suJAdpzGrY11wX9im8CQsGSQbGf5e )
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
