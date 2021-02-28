@@ -13,8 +13,7 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-"||
-searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
+||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||123clkforpro.me^
 ||1treebridge.com^
@@ -26,12 +25,14 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||411playz.com^
 ||41df76c67812005c.com^
 ||4ukqzi8d7l.com^
+||575743.info^
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
 ||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
+||abdurantom.com^
 ||acce8ce8a16054e7bbf5d2e4a659e60c-1243078787.eu-west-1.elb.amazonaws.com^
 ||activehosted.com^
 ||ad1data.com^
@@ -45,6 +46,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||adsense.com^
 ||adservice.google.com^
 ||adservice.google.com.lb^
+||adsrvr.org^
 ||adtechus.com^
 ||adtng.com^
 ||adultsense.co^
@@ -54,6 +56,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||ae25079147984d4d.com^
 ||af5.club^
 ||affcpatrack.com^
+||alb.reddit.com^
 ||alert-booster.club^
 ||alert-cellphone.club^
 ||alert-cleaner.club^
@@ -91,6 +94,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||banesnorttat.cam^
 ||barbara.com.br^
 ||bcnmonetize.com^
+||bebi.com^
 ||bebreloomr.com^
 ||bedrapiona.com^
 ||beeaimaid.com^
@@ -101,9 +105,11 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||bestmacutils.club^
 ||bestprizeday.life^
 ||bet365.com^
+||betgorebysson.club^
 ||bigcoin.io^
 ||boyaidare.club^
 ||bussaidbag.casa^
+||buydv.ru^
 ||caderode.com.br^
 ||caius-pal.com^
 ||caradstag.casa^
@@ -137,6 +143,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||crashlytics1.l.google.com^
 ||crashlytics2.l.google.com^
 ||creamssicsite.com^
+||criteo.com^
 ||crossover.com^
 ||crrepo.com^
 ||crwdcntrl.net^
@@ -182,11 +189,14 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||dreamdem.com^
 ||dsp.wtf^
 ||dtscout.com^
+||dutorterraom.com^
 ||dvdsm0rlx65fo.cloudfront.net^
 ||dynsrvbaa.com^
 ||dynsrvcab.com^
+||e2ertt.com^
 ||e6081b73afec581f.com^
 ||ealplayz.com^
+||effectdating2.com^
 ||elfishawy.com^
 ||emidzazi.site^
 ||enoughts.info^
@@ -207,6 +217,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||findtrends.ru^
 ||free-4g.com^
 ||free-downloads.online^
+||friendlyDuck.com^
 ||funtikapa.info^
 ||fwmrm.net^
 ||gamefabrique.com^
@@ -241,6 +252,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||hitycolla.top^
 ||hknewgood.top^
 ||hknewgood.xyz^
+||horizonme.net^
 ||hospedagemdesites.ws^
 ||hroderich-hep.com^
 ||hs-analytics.net^
@@ -265,6 +277,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||iphone-notification.com^
 ||ithoahie.com^
 ||itnuzleafan.com^
+||itphanpytor.club^
 ||jotpoolwarren.com^
 ||jubnaadserve.com^
 ||jwpltx.com^
@@ -273,6 +286,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||katerigordas.pro^
 ||kimsacka.net^
 ||kromtech.net^
+||lalaping.com^
 ||leadzuaf.com^
 ||leoneaningtoldre.pro^
 ||liadm.com^
@@ -293,8 +307,10 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||mailbluster.com^
 ||marketo.net^
 ||maropost.com^
+||marph.pl^
 ||matbit.net^
 ||mawlaybob.com^
+||mgid.com^
 ||milasktic.com^
 ||missedqu.top^
 ||mixpanel.com^
@@ -345,6 +361,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
 ||paht.tech^
+||pcanalysis.xyz^
 ||pdo7e.com^
 ||pegloang.com^
 ||pepnerdmime.cam^
@@ -362,6 +379,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||producebreed.com^
 ||profit-bitcoin-online.com^
 ||projobnetwork4.com^
+||propeller-tracking.com^
 ||propellerclick.com^
 ||protection-booster.fun^
 ||protection-booster.site^
@@ -381,6 +399,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||protection-phone.club^
 ||protection-phone.fun^
 ||protection-phone.site^
+||pushagim.com^
 ||pushalert.co^
 ||pushanert.com^
 ||pushedwebnews.com^
@@ -393,11 +412,14 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||recruitarab.com^
 ||redmail01.com^
 ||remembergirl.com^
+||revcontent.com^
 ||rinsouxy.com^
 ||rkdms.com^
 ||routeserve.info^
 ||rtmark.net^
 ||rumahweb.com^
+||run-syndicate.com^
+||runative-syndicate.com^
 ||s-onetag.com^
 ||saidbourhani.com^
 ||saumooly.net^
@@ -413,16 +435,20 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||simpli.fi^
+||siteswithcontent.com^
 ||smarturl.it^
 ||solutionsmediabest.com^
 ||somebook.tk^
 ||spasbatwit.icu^
 ||sponsorpay.com^
 ||sporters1.com^
+||spotxchange.com^
 ||spygasm.com^
 ||statcounter.com^
 ||staticxx.facebook.com^
 ||stats.wp.com^
+||steepto.com^
+||stlmo.news^
 ||stun.l.google.com^
 ||suchadeal.org^
 ||suggestqueries.google.com^
@@ -460,6 +486,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||tt2.openload.co^
 ||ttxsrl1.life^
 ||tubecorporate.com^
+||tvoyobuvnoy.ru^
 ||twinktube.com^
 ||txtfreesms.com^
 ||typekit.net^
@@ -472,6 +499,7 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||utwiretrab.info^
 ||vaipsona.com^
 ||vamprog.site^
+||vathindt.com^
 ||vcommission.com^
 ||verakiosk.com^
 ||videomytube.ga^
@@ -497,12 +525,14 @@ searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||webmobrilz.co.in^
 ||wecanhelp.org^
 ||whimsoplynx.com^
+||whugesto.net^
 ||wickyad.com^
 ||widget.trustpilot.com^
 ||wistia.com^
 ||witalfieldt.com^
 ||workcacenter.space^
 ||worldssl.net^
+||wowreality.info^
 ||wpu.sh^
 ||wurfl.io^
 ||www-google-analytics.l.google.com^
