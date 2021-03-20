@@ -13,7 +13,8 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||123clkforpro.me^
 ||1treebridge.com^
@@ -38,6 +39,7 @@
 ||ad1data.com^
 ||addthis.com^
 ||adinplay.com^
+||adnxs.com^
 ||adpushup.com^
 ||ads-twitter.com^
 ||ads.blue.ps^
@@ -70,6 +72,7 @@
 ||amazon-adsystem.com^
 ||ampproject.org^
 ||amung.us^
+||analytics.yahoo.com^
 ||aneseaticu.com^
 ||anghnewads.akamaized.net^
 ||antburape.club^
@@ -93,6 +96,7 @@
 ||balvalur.com^
 ||banesnorttat.cam^
 ||barbara.com.br^
+||bat.bing.com^
 ||bcnmonetize.com^
 ||bebi.com^
 ||bebreloomr.com^
@@ -114,6 +118,7 @@
 ||caius-pal.com^
 ||caradstag.casa^
 ||cataspboa.site^
+||causticpunctum.casa^
 ||chartbeat.net^
 ||cheapairlinestickets.fun^
 ||cityoflove.com^
@@ -137,15 +142,18 @@
 ||connect.facebook.net^
 ||connectivitycheck.gstatic.com^
 ||contentwritingsquare.com^
+||contextweb.com^
 ||convertbox.com^
 ||crashlytics.com^
 ||crashlytics.l.google.com^
 ||crashlytics1.l.google.com^
 ||crashlytics2.l.google.com^
+||crazyegg.com^
 ||creamssicsite.com^
 ||criteo.com^
 ||crossover.com^
 ||crrepo.com^
+||crsspxl.com^
 ||crwdcntrl.net^
 ||cryaptall.club^
 ||cse.google.com^
@@ -166,9 +174,13 @@
 ||d30gt5larl1k8h.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
 ||dairouzy.net^
+||data-tracking.net^
+||datadoghp.com^
 ||dbmtrk.xyz^
 ||deloplen.com^
 ||demand.supply^
+||demandbase.com^
+||demdex.net^
 ||demonstrator.world^
 ||denis-pj0823031-491201b.com^
 ||devapp.co^
@@ -179,6 +191,7 @@
 ||dilruwha.net^
 ||directservers.online^
 ||discovernative.com^
+||districtm.io^
 ||dm8uxnx87nm6o.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dosveggietotem.casa^
@@ -271,6 +284,7 @@
 ||infinity-consult.de^
 ||infopicked.com^
 ||inpagepush.com^
+||intab.fun^
 ||intellitxt.com^
 ||iossecure.com^
 ||iphone-fix.com^
@@ -290,6 +304,7 @@
 ||leadzuaf.com^
 ||leoneaningtoldre.pro^
 ||liadm.com^
+||lifeimpressions.net^
 ||lijit.com^
 ||litix.io^
 ||litleeemo.com^
@@ -305,6 +320,7 @@
 ||mackeeperaffiliates.com^
 ||magnetrack.klangoo.com^
 ||mailbluster.com^
+||marketingsolutions.yahoo.com^
 ||marketo.net^
 ||maropost.com^
 ||marph.pl^
@@ -314,6 +330,8 @@
 ||milasktic.com^
 ||missedqu.top^
 ||mixpanel.com^
+||mktoresp.com^
+||ml314.com^
 ||mmstat.com^
 ||moatads.com^
 ||mobiletraits.com^
@@ -327,6 +345,7 @@
 ||mwgol.com^
 ||mybestclick.net^
 ||mybestdc.com^
+||myfood.ltd^
 ||myll.me^
 ||naustoch.net^
 ||netspec.de^
@@ -366,7 +385,6 @@
 ||pegloang.com^
 ||pepnerdmime.cam^
 ||phengung.net^
-||phicdn.net^
 ||phone-notification.com^
 ||play.google.com^
 ||playgr8.com^
@@ -376,6 +394,7 @@
 ||predictivdisplay.com^
 ||preskalyn.com^
 ||privacy-center.org^
+||pro-market.net^
 ||producebreed.com^
 ||profit-bitcoin-online.com^
 ||projobnetwork4.com^
@@ -416,7 +435,9 @@
 ||rinsouxy.com^
 ||rkdms.com^
 ||routeserve.info^
+||rqhere2.com^
 ||rtmark.net^
+||rubiconproject.com^
 ||rumahweb.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
@@ -434,9 +455,13 @@
 ||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
+||siftscience.com^
 ||simpli.fi^
 ||siteswithcontent.com^
+||slashdotmedia.com^
 ||smarturl.it^
+||smetrics.solarwinds.com^
+||snap.licdn.com^
 ||solutionsmediabest.com^
 ||somebook.tk^
 ||spasbatwit.icu^
@@ -460,6 +485,7 @@
 ||tags.tiqcdn.com^
 ||taobao.com^
 ||tearsatecagey.work^
+||techtarget.com^
 ||telemetry.mozilla.org^
 ||telkomadsl.co.za^
 ||temperature.world^
@@ -474,9 +500,12 @@
 ||today-prizes.club^
 ||tonstiparro.info^
 ||tools.google.com^
+||topblockchainsolutions.nl^
+||track-app.club^
 ||track.easeus.com^
 ||trackerclick.com^
 ||tracking.marketing^
+||trackjs.com^
 ||trafficjunky.net^
 ||translate.googleapis.com^
 ||trkcenter.xyz^
@@ -517,6 +546,7 @@
 ||vipicmou.net^
 ||vnrherdsxr.com^
 ||vpnadefenceplus.com^
+||w55c.net^
 ||waisheph.com^
 ||waistbathroom.xyz^
 ||warten-sie-mal.xyz^
