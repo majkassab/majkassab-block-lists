@@ -13,9 +13,11 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||123clkforpro.me^
+||172.255.6.153^
 ||1treebridge.com^
 ||1ts06.top^
 ||2020workaffnew.top^
@@ -25,6 +27,8 @@
 ||411playz.com^
 ||41df76c67812005c.com^
 ||4ukqzi8d7l.com^
+||51.195.21.155^
+||51h5.online^
 ||575743.info^
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
@@ -57,6 +61,7 @@
 ||ae25079147984d4d.com^
 ||af5.club^
 ||affcpatrack.com^
+||agacelebir.com^
 ||alb.reddit.com^
 ||alert-booster.club^
 ||alert-cellphone.club^
@@ -110,6 +115,7 @@
 ||bet365.com^
 ||betgorebysson.club^
 ||bigcoin.io^
+||bookfeen.com^
 ||boyaidare.club^
 ||bussaidbag.casa^
 ||buydv.ru^
@@ -122,6 +128,7 @@
 ||cheapairlinestickets.fun^
 ||cityoflove.com^
 ||cjl58f3agc.com^
+||cleaner.monster^
 ||click.dji.com^
 ||clickbank.net^
 ||clients1.google.com^
@@ -140,6 +147,7 @@
 ||condenastdigital.com^
 ||connect.facebook.net^
 ||connectivitycheck.gstatic.com^
+||consumergiftboxsweepstakes.com^
 ||contentwritingsquare.com^
 ||contextweb.com^
 ||convertbox.com^
@@ -203,6 +211,7 @@
 ||dtscout.com^
 ||dutorterraom.com^
 ||dvdsm0rlx65fo.cloudfront.net^
+||dwcdn.net^
 ||dynsrvbaa.com^
 ||dynsrvcab.com^
 ||e2ertt.com^
@@ -227,6 +236,7 @@
 ||filfanramadan.online^
 ||findthegreatvideosfirst.info^
 ||findtrends.ru^
+||flarefiles.com^
 ||free-4g.com^
 ||free-downloads.online^
 ||friendlyDuck.com^
@@ -238,6 +248,7 @@
 ||getmackeepersoftpro.xyz^
 ||gitcdn.xyz^
 ||gleechie.net^
+||gluegames.xyz^
 ||go-ads.live^
 ||goodluckdog.space^
 ||goodluckguy.space^
@@ -259,6 +270,7 @@
 ||gvt2.com^
 ||gvt3.com^
 ||hd149026b.com^
+||herdcowhas.icu^
 ||hetontbetca.info^
 ||histats.com^
 ||hitycolla.top^
@@ -307,9 +319,11 @@
 ||lijit.com^
 ||litix.io^
 ||litleeemo.com^
+||loadsfalladz.casa^
 ||localnewsdiary.today^
 ||logshipper.anghami.com^
 ||loteriadenavidad.com^
+||lotsnippier.cam^
 ||louchees.net^
 ||luckyguys.top^
 ||luckyguys.xyz^
@@ -336,6 +350,7 @@
 ||mobiletraits.com^
 ||mobiletraits.s3.amazonaws.com^
 ||mofoplay.com^
+||mommygravelyslime.com^
 ||mouseflow.com^
 ||mousheen.net^
 ||mrjb7hvcks.com^
@@ -365,6 +380,7 @@
 ||nythatspartaund.info^
 ||offerimage.com^
 ||offerteonline2020.xyz^
+||ojrq.net^
 ||onclickgenius.com^
 ||onclickmega.com^
 ||oneimpress.io^
@@ -373,6 +389,7 @@
 ||onstunkyr.com^
 ||open-fast.com^
 ||orientation.world^
+||otheronet.fun^
 ||outchinchour.com^
 ||overhedtrew.info^
 ||owox.com^
@@ -383,11 +400,13 @@
 ||pdo7e.com^
 ||pegloang.com^
 ||pepnerdmime.cam^
+||performancetrustednetwork.com^
 ||phengung.net^
 ||phone-notification.com^
 ||play.google.com^
 ||playgr8.com^
 ||post2.social^
+||postlnk.com^
 ||postquare.com^
 ||powerball.com^
 ||predictivdisplay.com^
@@ -422,6 +441,7 @@
 ||pushanert.com^
 ||pushedwebnews.com^
 ||pushit.work^
+||pxf.io^
 ||quarrel.world^
 ||qwepop.site^
 ||raygun.io^
@@ -506,6 +526,7 @@
 ||tracking.marketing^
 ||trackjs.com^
 ||trafficjunky.net^
+||transit.monster^
 ||translate.googleapis.com^
 ||trkcenter.xyz^
 ||trkingcenter.xyz^
@@ -520,6 +541,7 @@
 ||typekit.net^
 ||ufilydudyj.tk^
 ||ufpcdn.com^
+||uglycotsjade.casa^
 ||uinames.com^
 ||urgent-notice.com^
 ||usgoodwinday.top^
@@ -534,6 +556,7 @@
 ||vidlox.me^
 ||vidoomy.com^
 ||vihansoft.ir^
+||viicoat.com^
 ||vip.fortunatefellow.xyz^
 ||vip.fortunateman.xyz^
 ||vip.fortunatepeople.xyz^
@@ -565,8 +588,12 @@
 ||wpu.sh^
 ||wurfl.io^
 ||www-google-analytics.l.google.com^
+||www.bigappboi.com^
 ||www.google.com^
+||www.top15news.club^
 ||xilbalar.com^
+||xurls.cz^
 ||yadro.ru^
 ||yvim.top^
 ||z3dmbpl6309s.com^
+||zoomstatistic.com^
