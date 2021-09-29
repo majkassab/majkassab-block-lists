@@ -13,10 +13,11 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||123clkforpro.me^
 ||172.255.6.153^
+||1abcnews.xyz^
 ||1treebridge.com^
 ||1ts06.top^
 ||2020workaffnew.top^
@@ -31,6 +32,7 @@
 ||575743.info^
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
+||7standby.com^
 ||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
@@ -88,6 +90,8 @@
 ||aquwysapikin.tk^
 ||arkbuyarm.club^
 ||asdad.xyz^
+||audiomain.website^
+||awesome.net^
 ||awlaybob.com^
 ||awstrack.me^
 ||b3z29k1uxb.com^
@@ -110,6 +114,8 @@
 ||bemobtrk.com^
 ||bestaryua.com^
 ||bestmacutils.club^
+||bestmade.xyz^
+||bestony.club^
 ||bestprizeday.life^
 ||bet365.com^
 ||betgorebysson.club^
@@ -125,6 +131,7 @@
 ||causticpunctum.casa^
 ||chartbeat.net^
 ||cheapairlinestickets.fun^
+||ciskotik.com^
 ||cityoflove.com^
 ||cjl58f3agc.com^
 ||cleaner.monster^
@@ -136,6 +143,7 @@
 ||clients5.google.com^
 ||clientservices.googleapis.com^
 ||clksite.com^
+||cloudsond.me^
 ||cnrs.fr^
 ||coddict.com^
 ||collecting.click^
@@ -180,6 +188,7 @@
 ||d30gt5larl1k8h.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
 ||dairouzy.net^
+||dartspeak.xyz^
 ||data-tracking.net^
 ||datadoghp.com^
 ||dbmtrk.xyz^
@@ -216,6 +225,7 @@
 ||e2ertt.com^
 ||e6081b73afec581f.com^
 ||ealplayz.com^
+||eeongous.com^
 ||effectdating2.com^
 ||elfishawy.com^
 ||emidzazi.site^
@@ -229,6 +239,7 @@
 ||exosrv.com^
 ||expmediadirect.com^
 ||fagpodmum.site^
+||fanmusic.xyz^
 ||farehitchlower.icu^
 ||fbcdn2.com^
 ||fd9523b31ff93b5c.com^
@@ -241,12 +252,15 @@
 ||friendlyDuck.com^
 ||funtikapa.info^
 ||fwmrm.net^
+||gamedate.xyz^
 ||gamefabrique.com^
 ||games4windownloads.com^
+||gamesone.xyz^
 ||getclicky.com^
 ||getmackeepersoftpro.xyz^
 ||gitcdn.xyz^
 ||gleechie.net^
+||globalmoby.xyz^
 ||gluegames.xyz^
 ||go-ads.live^
 ||goodluckdog.space^
@@ -272,6 +286,7 @@
 ||herdcowhas.icu^
 ||hetontbetca.info^
 ||histats.com^
+||hitsmoby.com^
 ||hitycolla.top^
 ||hknewgood.top^
 ||hknewgood.xyz^
@@ -312,6 +327,7 @@
 ||kromtech.net^
 ||lalaping.com^
 ||leadzuaf.com^
+||leappoach.info^
 ||leoneaningtoldre.pro^
 ||liadm.com^
 ||lifeimpressions.net^
@@ -336,6 +352,7 @@
 ||marketo.net^
 ||maropost.com^
 ||marph.pl^
+||massgames.space^
 ||matbit.net^
 ||mawlaybob.com^
 ||mgid.com^
@@ -346,20 +363,27 @@
 ||ml314.com^
 ||mmstat.com^
 ||moatads.com^
+||mobigifs.xyz^
 ||mobiletraits.com^
 ||mobiletraits.s3.amazonaws.com^
+||mobstore.xyz^
 ||mofoplay.com^
 ||mommygravelyslime.com^
+||motinkon.com^
 ||mouseflow.com^
 ||mousheen.net^
 ||mrjb7hvcks.com^
 ||mshahadah.com^
 ||mtalk.google.com^
 ||mwgol.com^
+||my1story.xyz^
 ||mybestclick.net^
 ||mybestdc.com^
 ||myfood.ltd^
+||myfrance.xyz^
 ||myll.me^
+||myphotos.xyz^
+||mythtime.xyz^
 ||naustoch.net^
 ||netspec.de^
 ||nexusrules.officeapps.live.com^
@@ -384,6 +408,7 @@
 ||onclickmega.com^
 ||oneimpress.io^
 ||onesignal.com^
+||onlinegt.xyz^
 ||onlineking.live^
 ||onstunkyr.com^
 ||open-fast.com^
@@ -402,8 +427,11 @@
 ||performancetrustednetwork.com^
 ||phengung.net^
 ||phone-notification.com^
+||phonemus.net^
+||picsgifs.xyz^
 ||play.google.com^
 ||playgr8.com^
+||portgame.website^
 ||post2.social^
 ||postlnk.com^
 ||postquare.com^
@@ -435,6 +463,7 @@
 ||protection-phone.club^
 ||protection-phone.fun^
 ||protection-phone.site^
+||psaiceex.net^
 ||pushagim.com^
 ||pushalert.co^
 ||pushanert.com^
@@ -469,12 +498,14 @@
 ||secured-device.club^
 ||secured-fix.club^
 ||secured-fixer.club^
+||senourth.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||siftscience.com^
 ||simpli.fi^
+||sitestory.xyz^
 ||siteswithcontent.com^
 ||slashdotmedia.com^
 ||smarturl.it^
@@ -482,7 +513,10 @@
 ||snap.licdn.com^
 ||solutionsmediabest.com^
 ||somebook.tk^
+||spacewb.tech^
 ||spasbatwit.icu^
+||specialword.xyz^
+||spgames.site^
 ||sponsorpay.com^
 ||sporters1.com^
 ||spotxchange.com^
@@ -492,6 +526,7 @@
 ||stats.wp.com^
 ||steepto.com^
 ||stlmo.news^
+||strtbiz.site^
 ||stun.l.google.com^
 ||suchadeal.org^
 ||suggestqueries.google.com^
@@ -501,6 +536,7 @@
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tags.tiqcdn.com^
+||takebad1.com^
 ||taobao.com^
 ||tearsatecagey.work^
 ||techtarget.com^
@@ -531,6 +567,7 @@
 ||trkingcenter.xyz^
 ||trkmyclk.space^
 ||trkmyclk.xyz^
+||tryphptoday.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
 ||tubecorporate.com^
@@ -572,12 +609,15 @@
 ||waistbathroom.xyz^
 ||warten-sie-mal.xyz^
 ||waynagmay.com^
+||wchampmuse.pw^
 ||wctrk.com^
 ||webmobrilz.co.in^
 ||wecanhelp.org^
+||weirdgames.info^
 ||whimsoplynx.com^
 ||whugesto.net^
 ||wickyad.com^
+||widechanges.best^
 ||widget.trustpilot.com^
 ||wistia.com^
 ||witalfieldt.com^
@@ -588,11 +628,11 @@
 ||wurfl.io^
 ||www-google-analytics.l.google.com^
 ||www.bigappboi.com^
-||www.google.com^
 ||www.top15news.club^
 ||xilbalar.com^
 ||xurls.cz^
 ||yadro.ru^
 ||yvim.top^
 ||z3dmbpl6309s.com^
+||zancetom.com^
 ||zoomstatistic.com^
