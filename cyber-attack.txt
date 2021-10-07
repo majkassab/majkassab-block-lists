@@ -13,14 +13,16 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
+||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
 ||102.250.4.251^
 ||123clkforpro.me^
 ||172.255.6.153^
+||188.120.122.107^
 ||1abcnews.xyz^
 ||1treebridge.com^
 ||1ts06.top^
 ||2020workaffnew.top^
+||35.227.234.222^
 ||35.232.188.118^
 ||35.239.20.234^
 ||3585656d9351553f.com^
@@ -33,6 +35,7 @@
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
 ||7standby.com^
+||89.38.224.248^
 ||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
@@ -52,6 +55,7 @@
 ||adsense.com^
 ||adservice.google.com^
 ||adservice.google.com.lb^
+||adskeeper.com^
 ||adsrvr.org^
 ||adtechus.com^
 ||adtng.com^
@@ -90,6 +94,7 @@
 ||aquwysapikin.tk^
 ||arkbuyarm.club^
 ||asdad.xyz^
+||askrswaths.casa^
 ||audiomain.website^
 ||awesome.net^
 ||awlaybob.com^
@@ -112,6 +117,7 @@
 ||beirutbedpage.com^
 ||bellburnblood-13.live^
 ||bemobtrk.com^
+||bepiletussar.casa^
 ||bestaryua.com^
 ||bestmacutils.club^
 ||bestmade.xyz^
@@ -120,6 +126,7 @@
 ||bet365.com^
 ||betgorebysson.club^
 ||bigcoin.io^
+||bintrck.xyz^
 ||bookfeen.com^
 ||boyaidare.club^
 ||bussaidbag.casa^
@@ -150,6 +157,8 @@
 ||collector.githubapp.com^
 ||collector.raygun.io^
 ||com-fast.live^
+||comasoiling.casa^
+||commercialvalue.org^
 ||conde.io^
 ||condenastdigital.com^
 ||connect.facebook.net^
@@ -175,6 +184,7 @@
 ||currencyinfo.net^
 ||curriculture.com^
 ||customlogocompany.press^
+||cuttuberaxis.com^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
 ||d1bs4b7zdgd8l3.cloudfront.net^
@@ -205,6 +215,7 @@
 ||digitalmediashop.biz^
 ||dilruwha.net^
 ||directservers.online^
+||dirtyfree.games^
 ||discovernative.com^
 ||districtm.io^
 ||dm8uxnx87nm6o.cloudfront.net^
@@ -213,6 +224,7 @@
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloadsdir.com^
+||dozubatan.com^
 ||drawnperink.com^
 ||dreamdem.com^
 ||dsp.wtf^
@@ -252,6 +264,7 @@
 ||friendlyDuck.com^
 ||funtikapa.info^
 ||fwmrm.net^
+||g2afse.com^
 ||gamedate.xyz^
 ||gamefabrique.com^
 ||games4windownloads.com^
@@ -298,6 +311,7 @@
 ||icedewear.site^
 ||ichlnk.com^
 ||iclickcdn.com^
+||iconcnd.net^
 ||id.google.com^
 ||idha.me^
 ||ili9.co^
@@ -314,6 +328,7 @@
 ||iossecure.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
+||irkfunkyformer.com^
 ||ithoahie.com^
 ||itnuzleafan.com^
 ||itphanpytor.club^
@@ -336,6 +351,7 @@
 ||litleeemo.com^
 ||loadsfalladz.casa^
 ||localnewsdiary.today^
+||lockersatelic.cam^
 ||logshipper.anghami.com^
 ||loteriadenavidad.com^
 ||lotsnippier.cam^
@@ -410,8 +426,10 @@
 ||onesignal.com^
 ||onlinegt.xyz^
 ||onlineking.live^
+||onmarshtompor.com^
 ||onstunkyr.com^
 ||open-fast.com^
+||opensooq.com^
 ||orientation.world^
 ||otheronet.fun^
 ||outchinchour.com^
@@ -420,6 +438,7 @@
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
 ||paht.tech^
+||palasidesdoor.com^
 ||pcanalysis.xyz^
 ||pdo7e.com^
 ||pegloang.com^
@@ -429,6 +448,9 @@
 ||phone-notification.com^
 ||phonemus.net^
 ||picsgifs.xyz^
+||pin-up-kasino.org.ru^
+||pingdom.net^
+||pitpastraja.com^
 ||play.google.com^
 ||playgr8.com^
 ||portgame.website^
@@ -439,6 +461,7 @@
 ||predictivdisplay.com^
 ||preskalyn.com^
 ||privacy-center.org^
+||prltmz.com^
 ||pro-market.net^
 ||producebreed.com^
 ||profit-bitcoin-online.com^
@@ -481,9 +504,13 @@
 ||revcontent.com^
 ||rinsouxy.com^
 ||rkdms.com^
+||rollmeout.xyz^
+||rollserver.xyz^
 ||routeserve.info^
+||rozumotterer.com^
 ||rqhere2.com^
 ||rtmark.net^
+||rts.rs^
 ||rubiconproject.com^
 ||rumahweb.com^
 ||run-syndicate.com^
@@ -508,6 +535,7 @@
 ||sitestory.xyz^
 ||siteswithcontent.com^
 ||slashdotmedia.com^
+||slicentum.space^
 ||smarturl.it^
 ||smetrics.solarwinds.com^
 ||snap.licdn.com^
@@ -588,6 +616,7 @@
 ||vathindt.com^
 ||vcommission.com^
 ||verakiosk.com^
+||vetdeberg.com^
 ||videomytube.ga^
 ||vidlox.me^
 ||vidoomy.com^
