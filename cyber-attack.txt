@@ -17,6 +17,7 @@
 ||102.250.4.251^
 ||123clkforpro.me^
 ||172.255.6.153^
+||172.255.6.212^
 ||188.120.122.107^
 ||1abcnews.xyz^
 ||1treebridge.com^
@@ -108,6 +109,7 @@
 ||balvalur.com^
 ||banesnorttat.cam^
 ||barbara.com.br^
+||barkaraoke.ru^
 ||bat.bing.com^
 ||bcnmonetize.com^
 ||bebi.com^
@@ -138,6 +140,7 @@
 ||causticpunctum.casa^
 ||chartbeat.net^
 ||cheapairlinestickets.fun^
+||cheqzone.com^
 ||ciskotik.com^
 ||cityoflove.com^
 ||cjl58f3agc.com^
@@ -185,6 +188,7 @@
 ||curriculture.com^
 ||customlogocompany.press^
 ||cuttuberaxis.com^
+||d-bi.fr^
 ||d10g3hyu3zeg91.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
 ||d1bs4b7zdgd8l3.cloudfront.net^
@@ -229,6 +233,7 @@
 ||dreamdem.com^
 ||dsp.wtf^
 ||dtscout.com^
+||dual-a-0001.a-msedge.net^
 ||dutorterraom.com^
 ||dvdsm0rlx65fo.cloudfront.net^
 ||dwcdn.net^
@@ -253,6 +258,7 @@
 ||fagpodmum.site^
 ||fanmusic.xyz^
 ||farehitchlower.icu^
+||fastly.net^
 ||fbcdn2.com^
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
@@ -261,6 +267,7 @@
 ||flarefiles.com^
 ||free-4g.com^
 ||free-downloads.online^
+||free3dgame.xyz ^
 ||friendlyDuck.com^
 ||funtikapa.info^
 ||fwmrm.net^
@@ -269,6 +276,7 @@
 ||gamefabrique.com^
 ||games4windownloads.com^
 ||gamesone.xyz^
+||gestyy.com^
 ||getclicky.com^
 ||getmackeepersoftpro.xyz^
 ||gitcdn.xyz^
@@ -388,6 +396,7 @@
 ||motinkon.com^
 ||mouseflow.com^
 ||mousheen.net^
+||moviess4up.blogspot.com^
 ||mrjb7hvcks.com^
 ||mshahadah.com^
 ||mtalk.google.com^
@@ -400,10 +409,12 @@
 ||myll.me^
 ||myphotos.xyz^
 ||mythtime.xyz^
+||nachrichtendeutschland.digital^
 ||naustoch.net^
 ||netspec.de^
 ||nexusrules.officeapps.live.com^
 ||nhpfvdlbjg.com^
+||nicsorts-accarade.com^
 ||notice-booster.site^
 ||notice-cellphone.club^
 ||notice-cleaner.site^
@@ -528,6 +539,7 @@
 ||senourth.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
+||seznam.cz^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||siftscience.com^
@@ -556,11 +568,13 @@
 ||stlmo.news^
 ||strtbiz.site^
 ||stun.l.google.com^
+||successfullymade.com^
 ||suchadeal.org^
 ||suggestqueries.google.com^
 ||suitesbahrag.icu^
 ||superonclick.com^
 ||surge.sh^
+||swarmpush.com^
 ||sweetsacademy.me^
 ||t1.streamango.com^
 ||tags.tiqcdn.com^
@@ -622,6 +636,7 @@
 ||vidoomy.com^
 ||vihansoft.ir^
 ||viicoat.com^
+||viid.me^
 ||vip.fortunatefellow.xyz^
 ||vip.fortunateman.xyz^
 ||vip.fortunatepeople.xyz^
@@ -651,9 +666,11 @@
 ||wistia.com^
 ||witalfieldt.com^
 ||workcacenter.space^
+||worldoftanks.eu^
 ||worldssl.net^
 ||wowreality.info^
 ||wpu.sh^
+||wuazu.net^
 ||wurfl.io^
 ||www-google-analytics.l.google.com^
 ||www.bigappboi.com^
