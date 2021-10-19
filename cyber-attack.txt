@@ -99,6 +99,7 @@
 ||askrswaths.casa^
 ||audiomain.website^
 ||awesome.net^
+||awesomeprizes.net^
 ||awlaybob.com^
 ||awstrack.me^
 ||b3z29k1uxb.com^
@@ -140,6 +141,8 @@
 ||caradstag.casa^
 ||cataspboa.site^
 ||causticpunctum.casa^
+||cdn-j4v2svnc.biz^
+||cdnativ.com^
 ||chartbeat.net^
 ||cheapairlinestickets.fun^
 ||cheqzone.com^
@@ -263,14 +266,17 @@
 ||exosrv.com^
 ||expmediadirect.com^
 ||fagpodmum.site^
+||fancywinners.net^
 ||fanmusic.xyz^
 ||farehitchlower.icu^
 ||fbcdn2.com^
+||fbmedia-bls.com^
 ||fd9523b31ff93b5c.com^
 ||filfanramadan.online^
 ||findthegreatvideosfirst.info^
 ||findtrends.ru^
 ||flarefiles.com^
+||forflygonom.com^
 ||free-4g.com^
 ||free-downloads.online^
 ||free3dgame.xyz ^
@@ -418,6 +424,7 @@
 ||myphotos.xyz^
 ||mythtime.xyz^
 ||nachrichtendeutschland.digital^
+||naropay.ru^
 ||naustoch.net^
 ||netspec.de^
 ||nexusrules.officeapps.live.com^
@@ -441,6 +448,7 @@
 ||ojrq.net^
 ||onclickgenius.com^
 ||onclickmega.com^
+||one-prize.com^
 ||oneimpress.io^
 ||onesignal.com^
 ||onlinegt.xyz^
@@ -636,7 +644,9 @@
 ||swarmpush.com^
 ||sweetsacademy.me^
 ||t1.streamango.com^
+||tagdatax.com^
 ||tags.tiqcdn.com^
+||tagstaticx.com^
 ||takebad1.com^
 ||taobao.com^
 ||tearsatecagey.work^
@@ -661,6 +671,7 @@
 ||trackerclick.com^
 ||tracking.marketing^
 ||trackjs.com^
+||traffcmpy.com^
 ||trafficjunky.net^
 ||transit.monster^
 ||translate.googleapis.com^
@@ -680,7 +691,6 @@
 ||ufpcdn.com^
 ||uglycotsjade.casa^
 ||uinames.com^
-||cdn-j4v2svnc.biz^
 ||urgent-notice.com^
 ||usgoodwinday.top^
 ||usgoodwinday.xyz^
@@ -744,3 +754,4 @@
 ||z3dmbpl6309s.com^
 ||zancetom.com^
 ||zoomstatistic.com^
+||zugadia.ru^
