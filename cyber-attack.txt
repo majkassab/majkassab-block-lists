@@ -13,12 +13,15 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||112.2o7.net^
 ||122.2o7.net^
 ||123clkforpro.me^
 ||142.91.159.143^
+||154.167.233.64^
+||172.255.6.114^
 ||172.255.6.153^
 ||172.255.6.212^
 ||188.120.122.107^
@@ -29,6 +32,7 @@
 ||1ts06.top^
 ||1worldonline.com^
 ||2020workaffnew.top^
+||238.129.153.160^
 ||247-inc.net^
 ||2key-prod-businesses.s3.amazonaws.com^
 ||2o7.net^
@@ -37,8 +41,10 @@
 ||35.232.188.118^
 ||35.239.20.234^
 ||3585656d9351553f.com^
+||3rat.com^
 ||411playz.com^
 ||41df76c67812005c.com^
+||4crot.com^
 ||4ukqzi8d7l.com^
 ||51.195.21.155^
 ||51h5.online^
@@ -48,6 +54,7 @@
 ||7standby.com^
 ||89.38.224.248^
 ||a-ads.com^
+||a-escort.com^
 ||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
@@ -86,6 +93,7 @@
 ||advpartners.org^
 ||adwords.com^
 ||ae25079147984d4d.com^
+||aeroport-beyrouth.com^
 ||af5.club^
 ||affcpatrack.com^
 ||agacelebir.com^
@@ -102,6 +110,7 @@
 ||alert-iphone.club^
 ||alert-phone.club^
 ||alexametrics.com^
+||alfa-recharge.com^
 ||aliyuncs.com^
 ||aloetichansels.casa^
 ||alpina.com.uy^
@@ -138,6 +147,7 @@
 ||badleasump.cam^
 ||baidu.com^
 ||bainushe.com^
+||bakpage.com^
 ||baleiambwee.com^
 ||balvalur.com^
 ||banesnorttat.cam^
@@ -167,6 +177,9 @@
 ||bimbim.com^
 ||bintrck.xyz^
 ||bitmedia.io^
+||Blombank-mobile.com^
+||blombnkonline.onlineunionsavings.com^
+||blomsal.com^
 ||bmcdn1.com^
 ||boahoupi.com^
 ||bookfeen.com^
@@ -200,6 +213,7 @@
 ||clients5.google.com^
 ||clientservices.googleapis.com^
 ||clksite.com^
+||cloudfunctions.net^
 ||cloudsond.me^
 ||cnrs.fr^
 ||coddict.com^
@@ -212,6 +226,7 @@
 ||com-fast.live^
 ||comasoiling.casa^
 ||commercialvalue.org^
+||companionfiles.com^
 ||conde.io^
 ||condenastdigital.com^
 ||connect.facebook.net^
@@ -241,6 +256,7 @@
 ||cryptofans.ru^
 ||cse.google.com^
 ||cudalbapt.com^
+||curd.io^
 ||currencyinfo.net^
 ||curriculture.com^
 ||customlogocompany.press^
@@ -258,7 +274,9 @@
 ||d2bj2texxib1qg.cloudfront.net^
 ||d30gt5larl1k8h.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
+||dailymagazine.xyz^
 ||dairouzy.net^
+||dar-al-amal.org^
 ||dartspeak.xyz^
 ||data-tracking.net^
 ||datadoghp.com^
@@ -289,7 +307,10 @@
 ||dm8uxnx87nm6o.cloudfront.net^
 ||dmartech.cn^
 ||dnn506yrbagrg.cloudfront.net^
+||dollar-prices-today.com^
+||dollartolebanesecurrency.com^
 ||dosveggietotem.casa^
+||doublecheque.online^
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloadsdir.com^
@@ -301,6 +322,7 @@
 ||dsp.wtf^
 ||dtscout.com^
 ||dual-a-0001.a-msedge.net^
+||dubaimistressheelena.com^
 ||dumpster.cam4.com^
 ||dutorterraom.com^
 ||dvdsm0rlx65fo.cloudfront.net^
@@ -311,6 +333,8 @@
 ||e6081b73afec581f.com^
 ||ealplayz.com^
 ||easyasvpn.com^
+||ebanonescortsservices.com^
+||Eblom-mobile.com^
 ||eeongous.com^
 ||effectdating2.com^
 ||efkbt6yy.biz^
@@ -324,9 +348,20 @@
 ||enoughts.info^
 ||epresentcaseseveral.top^
 ||erihj.com^
+||ermapp.net^
 ||erowredsigo.info^
 ||escort-beirut.info^
+||escortinbeirut.com^
+||escortmodelsbeirut.com^
+||escortnews.com^
+||escortsbeirutlebanon.com^
+||escortsinlebanon.com^
+||escortsinlebanon.net^
+||escortslebanon.net^
+||escortslebanonbeirut.com^
+||escotsinbeirut.biz^
 ||etahub.com^
+||eurigirlsescort.com^
 ||everhelper.me^
 ||evidon.com^
 ||exoclick.com^
@@ -334,6 +369,8 @@
 ||expmediadirect.com^
 ||expmediadirect1.com^
 ||fagpodmum.site^
+||fakediplomamall.com^
+||famquote.com^
 ||fancywinners.net^
 ||fanmusic.xyz^
 ||farehitchlower.icu^
@@ -346,6 +383,7 @@
 ||find-topprizes-here.life^
 ||findthegreatvideosfirst.info^
 ||findtrends.ru^
+||firebaseio.com^
 ||flarefiles.com^
 ||flrefox.win^
 ||forflygonom.com^
@@ -366,6 +404,7 @@
 ||get-express-vpns.com^
 ||getclicky.com^
 ||getmackeepersoftpro.xyz^
+||gfatf.org^
 ||gg-bet-pl.com^
 ||gitcdn.xyz^
 ||gleechie.net^
@@ -377,6 +416,7 @@
 ||goodluckguy.space^
 ||goodluckman.space^
 ||goodluckpig.space^
+||goodmasagechair.com^
 ||gooescorts.com^
 ||google-analytics.com^
 ||googleadapis.l.google.com^
@@ -396,8 +436,10 @@
 ||gvt3.com^
 ||hantimansiskstud.ru^
 ||hd149026b.com^
+||herbeauty.co^
 ||herdcowhas.icu^
 ||hetaint.com^
+||hetaruvg.com^
 ||hetontbetca.info^
 ||histats.com^
 ||hitsmoby.com^
@@ -407,6 +449,7 @@
 ||ho21.com^
 ||horizonme.net^
 ||hospedagemdesites.ws^
+||hotjar.com^
 ||hroderich-hep.com^
 ||hs-analytics.net^
 ||icedewear.site^
@@ -431,15 +474,18 @@
 ||intab.fun^
 ||intellitxt.com^
 ||intercom.io^
+||internationalescorts.com^
 ||iossecure.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
 ||ipqualityscore.com^
 ||irkfunkyformer.com^
+||israel-alma.org^
 ||ithoahie.com^
 ||itnuzleafan.com^
 ||itphanpytor.club^
 ||jesusdr.com^
+||jokerdz.com^
 ||jotpoolwarren.com^
 ||jubnaadserve.com^
 ||junmediadirect.com^
@@ -455,6 +501,13 @@
 ||lalaping.com^
 ||leadzuaf.com^
 ||leappoach.info^
+||lebanese-pound-to-usd-price.com^
+||lebaneselira.org^
+||lebanon-escorts.com^
+||lebanonescortgirls.com^
+||lebanonescorts.me^
+||lebanonsexyescorts.com^
+||lebessentials.com^
 ||leoneaningtoldre.pro^
 ||leostop.com^
 ||liadm.com^
@@ -466,11 +519,13 @@
 ||litix.io^
 ||litleeemo.com^
 ||littlecdn.com^
+||livesexporn.net^
 ||loadsfalladz.casa^
 ||localnewsdiary.today^
 ||lockersatelic.cam^
 ||logshipper.anghami.com^
 ||lolinka.site^
+||looti.net^
 ||loteriadenavidad.com^
 ||lotsnippier.cam^
 ||louchees.net^
@@ -485,6 +540,8 @@
 ||mailbluster.com^
 ||mal3ab.live^
 ||malouma-plus.com^
+||mappedinisrael.com^
+||mariamgame.com^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
 ||marootrack.co^
@@ -503,6 +560,7 @@
 ||miatta-oh.xyz^
 ||milasktic.com^
 ||minijeslekoralek.cz^
+||Minmsakar.com^
 ||missedqu.top^
 ||mixpanel.com^
 ||mktoresp.com^
@@ -525,11 +583,15 @@
 ||mshahadah.com^
 ||msjeseniova204.cz^
 ||mtalk.google.com^
+||mtctouch.online^
+||mtctouch.sale^
+||mtctouch.shop^
 ||muftidaphnin.casa^
 ||mwgol.com^
 ||my1story.xyz^
 ||mybestclick.net^
 ||mybestdc.com^
+||mybestdl.com^
 ||myfood.ltd^
 ||myfrance.xyz^
 ||myll.me^
@@ -538,6 +600,7 @@
 ||nachrichtendeutschland.digital^
 ||naropay.ru^
 ||naustoch.net^
+||neswangy.net^
 ||netspec.de^
 ||newanothernew2.com^
 ||newtontanrec.casa^
@@ -558,6 +621,7 @@
 ||notification-booster.club^
 ||notification-fix.club^
 ||notification-iphone.club^
+||numeroesim.com^
 ||nunhoefey.com^
 ||nxwnet.ca^
 ||nythatspartaund.info^
@@ -571,6 +635,7 @@
 ||one-prize.com^
 ||oneimpress.io^
 ||onesignal.com^
+||Onlineblom.com^
 ||onlinegt.xyz^
 ||onlineking.live^
 ||onmarshtompor.com^
@@ -603,6 +668,7 @@
 ||pitpastraja.com^
 ||plan-alex.fun^
 ||planetecultures.site^
+||platinumlebanonescorts.com^
 ||play.google.com^
 ||playgr8.com^
 ||pornhubly.com^
@@ -669,6 +735,7 @@
 ||pro-market.net^
 ||producebreed.com^
 ||profit-bitcoin-online.com^
+||prograppers.com^
 ||projobnetwork4.com^
 ||propeller-tracking.com^
 ||propellerclick.com^
@@ -698,6 +765,7 @@
 ||pushedwebnews.com^
 ||pushit.work^
 ||pxf.io^
+||qnet.net^
 ||qooqle.download^
 ||quarrel.world^
 ||qwepop.site^
@@ -705,6 +773,7 @@
 ||raygun.io^
 ||rdrspec.com^
 ||rdsb2.club^
+||reallifecam.com^
 ||realsrv.com^
 ||recruitarab.com^
 ||redmail01.com^
@@ -728,13 +797,16 @@
 ||rushbitcoin.com^
 ||s-onetag.com^
 ||s3-gondelsheim-mde.de^
+||saasexch.com^
 ||saconnections.cz^
+||SAIDA.TV^
 ||saidbourhani.com^
 ||saumooly.net^
 ||sbmchina.com^
 ||sbplay.org^
 ||sc-static.net^
 ||scorecardresearch.com^
+||scrollquotes.com^
 ||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
 ||secured-cellphone.club^
 ||secured-device.club^
@@ -745,9 +817,12 @@
 ||serverishererdr164.live^
 ||seznam.cz^
 ||shiaaweb.com^
+||shinmimlam.com^
+||shoesworld.co^
 ||showmoviesonline.club^
 ||sib3stway.com^
 ||siftscience.com^
+||similarweb.com^
 ||simpli.fi^
 ||sitestory.xyz^
 ||siteswithcontent.com^
@@ -812,6 +887,10 @@
 ||theanda.nl^
 ||thesandonesof.info^
 ||thikraik.net^
+||thisilebanon.com^
+||thisislebanon.news^
+||thisislebanon.org^
+||Tinytap.it^
 ||tkrzhev.ru^
 ||tns-counter.ru^
 ||tobaltoyon.com^
@@ -821,6 +900,7 @@
 ||topblockchainsolutions.nl^
 ||topforex.trade^
 ||totaladblocker.com^
+||touchleb.com^
 ||tracepath.cc^
 ||track-app.club^
 ||track.easeus.com^
@@ -840,6 +920,7 @@
 ||truestroyman.com^
 ||truthtraff.com^
 ||tryphptoday.com^
+||ts-dating.com^
 ||tsyndicate.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
@@ -889,6 +970,7 @@
 ||visualwebsiteoptimizer.com^
 ||vnrherdsxr.com^
 ||vpnadefenceplus.com^
+||vsxapps.com^
 ||w55c.net^
 ||waisheph.com^
 ||waistbathroom.xyz^
@@ -912,6 +994,9 @@
 ||winpatchz.net^
 ||wistia.com^
 ||witalfieldt.com^
+||Wix.com^
+||wixsite.com^
+||womeninbeirut.com^
 ||workcacenter.space^
 ||worldssl.net^
 ||wowreality.info^
@@ -922,13 +1007,16 @@
 ||www.bigappboi.com^
 ||www.google-analytics.com^
 ||www.top15news.club^
+||wwwescortbeirut.com^
 ||xilbalar.com^
 ||xurls.cz^
+||xxxtop.org^
 ||yadro.ru^
 ||yamacparasutufethiye.org^
 ||yfilesstorage1.com^
 ||yonhelioliskor.com^
 ||yoo7.com^
+||yourcoolfeed.com^
 ||yurdax.com^
 ||yvim.top^
 ||z3dmbpl6309s.com^
