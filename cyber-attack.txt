@@ -59,10 +59,12 @@
 ||acce8ce8a16054e7bbf5d2e4a659e60c-1243078787.eu-west-1.elb.amazonaws.com^
 ||activehosted.com^
 ||ad1data.com^
+||adblockextension.online^
 ||add0ns.xyz^
 ||addthis.com^
 ||adfcl2.eu^
 ||adinplay.com^
+||aditserve.com^
 ||adlane.info^
 ||adnxs.com^
 ||adpushup.com^
@@ -79,6 +81,7 @@
 ||adtng.com^
 ||adultsense.co^
 ||adultsense.com^
+||adverster.b-cdn.net^
 ||advertising.com^
 ||advpartners.org^
 ||adwords.com^
@@ -86,6 +89,7 @@
 ||af5.club^
 ||affcpatrack.com^
 ||agacelebir.com^
+||ak-is2.net^
 ||akhbar-arabia.com^
 ||akkaof.xyz^
 ||alb.reddit.com^
@@ -103,6 +107,7 @@
 ||alpina.com.uy^
 ||amazon-adsystem.com^
 ||ampproject.org^
+||analytics.facebook.com^
 ||analytics.yahoo.com^
 ||aneseaticu.com^
 ||anghnewads.akamaized.net^
@@ -215,6 +220,7 @@
 ||contentwritingsquare.com^
 ||contextweb.com^
 ||convertbox.com^
+||coolfoodline.com^
 ||cor8ni3shwerex.com^
 ||crashlytics.com^
 ||crashlytics.l.google.com^
@@ -275,6 +281,7 @@
 ||directservers.online^
 ||direikivul-mar.fun^
 ||dirtyfree.games^
+||dirtyfreegay.games^
 ||discovernative.com^
 ||districtm.io^
 ||diva.network^
@@ -320,10 +327,12 @@
 ||erowredsigo.info^
 ||escort-beirut.info^
 ||etahub.com^
+||everhelper.me^
 ||evidon.com^
 ||exoclick.com^
 ||exosrv.com^
 ||expmediadirect.com^
+||expmediadirect1.com^
 ||fagpodmum.site^
 ||fancywinners.net^
 ||fanmusic.xyz^
@@ -343,8 +352,10 @@
 ||free-4g.com^
 ||free-downloads.online^
 ||free3dgame.xyz ^
+||freedirtygame.com^
 ||friendlyDuck.com^
 ||funtikapa.info^
+||fvdspeeddial.com^
 ||fwmrm.net^
 ||g2afse.com^
 ||gamedate.xyz^
@@ -352,13 +363,16 @@
 ||games4windownloads.com^
 ||gamesone.xyz^
 ||gestyy.com^
+||get-express-vpns.com^
 ||getclicky.com^
 ||getmackeepersoftpro.xyz^
+||gg-bet-pl.com^
 ||gitcdn.xyz^
 ||gleechie.net^
 ||globalmoby.xyz^
 ||gluegames.xyz^
 ||go-ads.live^
+||go2affise.com^
 ||goodluckdog.space^
 ||goodluckguy.space^
 ||goodluckman.space^
@@ -390,6 +404,7 @@
 ||hitycolla.top^
 ||hknewgood.top^
 ||hknewgood.xyz^
+||ho21.com^
 ||horizonme.net^
 ||hospedagemdesites.ws^
 ||hroderich-hep.com^
@@ -410,6 +425,7 @@
 ||in-page-push.com^
 ||indexww.com^
 ||infinity-consult.de^
+||inflameemanent.cam^
 ||infopicked.com^
 ||inpagepush.com^
 ||intab.fun^
@@ -442,6 +458,7 @@
 ||leoneaningtoldre.pro^
 ||leostop.com^
 ||liadm.com^
+||libcdn.xyz^
 ||lifeimpressions.net^
 ||lijit.com^
 ||linktrack123.com^
@@ -463,11 +480,14 @@
 ||macinside.info^
 ||mackeeper.com^
 ||mackeeperaffiliates.com^
+||macupdate.com^
 ||magnetrack.klangoo.com^
 ||mailbluster.com^
+||mal3ab.live^
 ||malouma-plus.com^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
+||marootrack.co^
 ||maropost.com^
 ||marph.pl^
 ||massgames.space^
@@ -477,6 +497,7 @@
 ||mc.yandex.ru^
 ||melanism-unyoke-moodiness.xyz^
 ||mellowads.com^
+||memberstrack.net^
 ||metds.net^
 ||mgid.com^
 ||miatta-oh.xyz^
@@ -504,6 +525,7 @@
 ||mshahadah.com^
 ||msjeseniova204.cz^
 ||mtalk.google.com^
+||muftidaphnin.casa^
 ||mwgol.com^
 ||my1story.xyz^
 ||mybestclick.net^
@@ -517,10 +539,13 @@
 ||naropay.ru^
 ||naustoch.net^
 ||netspec.de^
+||newanothernew2.com^
+||newtontanrec.casa^
 ||nexusrules.officeapps.live.com^
 ||nhpfvdlbjg.com^
 ||nic-home.com^
 ||nicsorts-accarade.com^
+||nimbusweb.me^
 ||ninosproxima-word.fun^
 ||notice-booster.site^
 ||notice-cellphone.club^
@@ -534,6 +559,7 @@
 ||notification-fix.club^
 ||notification-iphone.club^
 ||nunhoefey.com^
+||nxwnet.ca^
 ||nythatspartaund.info^
 ||offerimage.com^
 ||offerteonline2020.xyz^
@@ -672,6 +698,7 @@
 ||pushedwebnews.com^
 ||pushit.work^
 ||pxf.io^
+||qooqle.download^
 ||quarrel.world^
 ||qwepop.site^
 ||ragsfrynotary.com^
@@ -762,6 +789,8 @@
 ||t-msedge.net^
 ||t1.streamango.com^
 ||taetsiatomia.com^
+||tagcachedataxrt.com^
+||tagcachestaticx.com^
 ||tagdatax.com^
 ||tags.tiqcdn.com^
 ||tagstaticx.com^
@@ -791,6 +820,8 @@
 ||tools.google.com^
 ||topblockchainsolutions.nl^
 ||topforex.trade^
+||totaladblocker.com^
+||tracepath.cc^
 ||track-app.club^
 ||track.easeus.com^
 ||trackerclick.com^
@@ -798,6 +829,7 @@
 ||trackjs.com^
 ||traffcmpy.com^
 ||trafficjunky.net^
+||trafiq.trade^
 ||transit.monster^
 ||translate.googleapis.com^
 ||trkcenter.xyz^
@@ -806,6 +838,7 @@
 ||trkmyclk.xyz^
 ||truepush.com^
 ||truestroyman.com^
+||truthtraff.com^
 ||tryphptoday.com^
 ||tsyndicate.com^
 ||tt2.openload.co^
@@ -821,6 +854,7 @@
 ||ufpcdn.com^
 ||uglycotsjade.casa^
 ||uinames.com^
+||untr.xyz^
 ||upgulpinon.com^
 ||urgent-notice.com^
 ||urlaubswelt-heller.de^
@@ -860,6 +894,7 @@
 ||waistbathroom.xyz^
 ||wakanmounds.cam^
 ||wanorde-theater.online^
+||wargaming.net^
 ||warten-sie-mal.xyz^
 ||wartetesiste.fun^
 ||waynagmay.com^
@@ -878,7 +913,6 @@
 ||wistia.com^
 ||witalfieldt.com^
 ||workcacenter.space^
-||worldoftanks.eu^
 ||worldssl.net^
 ||wowreality.info^
 ||wpu.sh^
@@ -892,8 +926,10 @@
 ||xurls.cz^
 ||yadro.ru^
 ||yamacparasutufethiye.org^
+||yfilesstorage1.com^
 ||yonhelioliskor.com^
 ||yoo7.com^
+||yurdax.com^
 ||yvim.top^
 ||z3dmbpl6309s.com^
 ||zancetom.com^
