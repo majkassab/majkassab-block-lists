@@ -56,6 +56,7 @@
 ||a-escort.com^
 ||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
+||a1916.dscg2.akamai.net^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
 ||aaaado.com^
@@ -65,7 +66,10 @@
 ||acce8ce8a16054e7bbf5d2e4a659e60c-1243078787.eu-west-1.elb.amazonaws.com^
 ||activehosted.com^
 ||ad1data.com^
+||ad2bitcoin.com^
+||adbit.biz^
 ||adblockextension.online^
+||adcolony.com^
 ||add0ns.xyz^
 ||addthis.com^
 ||adfcl2.eu^
@@ -84,7 +88,9 @@
 ||adskeeper.com^
 ||adsrvr.org^
 ||adtechus.com^
+||adtilt.com^
 ||adtng.com^
+||adulthq.net^
 ||adultsense.co^
 ||adultsense.com^
 ||adverster.b-cdn.net^
@@ -114,6 +120,8 @@
 ||aliyuncs.com^
 ||aloetichansels.casa^
 ||alpina.com.uy^
+||am15.net^
+||amazingcontent.site^
 ||amazon-adsystem.com^
 ||ampproject.org^
 ||analytics.facebook.com^
@@ -123,8 +131,11 @@
 ||antburape.club^
 ||anyaxeash.club^
 ||apeareand.club^
+||api.onesignal.com^
 ||api.parse.com^
+||api2.branch.io^
 ||app-measurement.com^
+||applovin.com^
 ||appsflyer.com^
 ||aptaniale.club^
 ||aquwysapikin.tk^
@@ -181,10 +192,12 @@
 ||bimbim.com^
 ||bintrck.xyz^
 ||bitmedia.io^
+||blocksinform.com^
 ||Blombank-mobile.com^
 ||blombnkonline.onlineunionsavings.com^
 ||blomsal.com^
 ||bmcdn1.com^
+||bmcdn2.com^
 ||boahoupi.com^
 ||bongacams.com^
 ||bookfeen.com^
@@ -282,8 +295,10 @@
 ||d1qk9ujrmkucbl.cloudfront.net^
 ||d1uw69x4c2zrim.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
+||d20rhod2tzd470.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
 ||d30gt5larl1k8h.cloudfront.net^
+||d3p8w7to4066sy.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
 ||dailymagazine.xyz^
 ||dairouzy.net^
@@ -318,6 +333,7 @@
 ||diva.services^
 ||dm8uxnx87nm6o.cloudfront.net^
 ||dmartech.cn^
+||dmmzkfd82wayn.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dollar-prices-today.com^
 ||dollartolebanesecurrency.com^
@@ -359,6 +375,7 @@
 ||elfishawy.com^
 ||emidzazi.site^
 ||enginsquawks.cam^
+||enicyvys.xyz^
 ||enoughts.info^
 ||epresentcaseseveral.top^
 ||ergdungalga.cam^
@@ -377,12 +394,14 @@
 ||escotsinbeirut.biz^
 ||etahub.com^
 ||eurigirlsescort.com^
+||events3.adcolony.com^
 ||everhelper.me^
 ||evidon.com^
 ||exoclick.com^
 ||exosrv.com^
 ||expmediadirect.com^
 ||expmediadirect1.com^
+||fadverdirect.com^
 ||fagpodmum.site^
 ||fakediplomamall.com^
 ||famquote.com^
@@ -399,6 +418,7 @@
 ||findthegreatvideosfirst.info^
 ||findtrends.ru^
 ||firebaseio.com^
+||firebaselogging-pa.googleapis.com^
 ||fitworldz.com^
 ||flarefiles.com^
 ||flrefox.win^
@@ -409,6 +429,7 @@
 ||freedirtygame.com^
 ||friendlyDuck.com^
 ||funtikapa.info^
+||funuzai.ru^
 ||fvdspeeddial.com^
 ||fwmrm.net^
 ||g2afse.com^
@@ -465,6 +486,7 @@
 ||hknewgood.top^
 ||hknewgood.xyz^
 ||ho21.com^
+||hol.es^
 ||hola.org^
 ||horizonme.net^
 ||hospedagemdesites.ws^
@@ -502,6 +524,7 @@
 ||iphone-fix.com^
 ||iphone-notification.com^
 ||ipqualityscore.com^
+||ips.pt^
 ||irkfunkyformer.com^
 ||israel-alma.org^
 ||ithoahie.com^
@@ -541,11 +564,13 @@
 ||libcdn.xyz^
 ||lifeimpressions.net^
 ||lijit.com^
+||linkonclick.com^
 ||linktrack123.com^
 ||lipartners.ru^
 ||litix.io^
 ||litleeemo.com^
 ||littlecdn.com^
+||liukzemydre.com^
 ||livesexporn.net^
 ||loadsfalladz.casa^
 ||localnewsdiary.today^
@@ -627,6 +652,7 @@
 ||myll.me^
 ||myphotos.xyz^
 ||mythtime.xyz^
+||n0rm.site^
 ||nachrichtendeutschland.digital^
 ||naropay.ru^
 ||naustoch.net^
@@ -664,6 +690,7 @@
 ||onclickgenius.com^
 ||onclickmega.com^
 ||one-prize.com^
+||onebitco.com^
 ||oneimpress.io^
 ||onesignal.com^
 ||Onlineblom.com^
@@ -673,6 +700,7 @@
 ||onstunkyr.com^
 ||open-fast.com^
 ||opensooq.com^
+||optnx.com^
 ||orientation.world^
 ||otheronet.fun^
 ||outchinchour.com^
@@ -706,6 +734,8 @@
 ||platinumlebanonescorts.com^
 ||play.google.com^
 ||playgr8.com^
+||pocrd.cc^
+||popcash.net^
 ||pornhubly.com^
 ||portgame.website^
 ||post2.social^
@@ -820,6 +850,7 @@
 ||reverancedc.ru^
 ||rinsouxy.com^
 ||rkdms.com^
+||rndskittytor.com^
 ||rollmeout.xyz^
 ||rollserver.xyz^
 ||routeserve.info^
@@ -892,6 +923,7 @@
 ||statcounter.com^
 ||staticxx.facebook.com^
 ||stats.wp.com^
+||stawhoph.com^
 ||steepto.com^
 ||stlmo.news^
 ||strtbiz.site^
@@ -956,6 +988,7 @@
 ||trackerclick.com^
 ||tracking.marketing^
 ||trackjs.com^
+||tradetomillion.com^
 ||traffcmpy.com^
 ||trafficjunky.net^
 ||trafiq.trade^
@@ -975,6 +1008,7 @@
 ||tsyndicate.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
+||tubecorp.com^
 ||tubecorporate.com^
 ||turninted-suradios.icu^
 ||tuviste-nee.fun^
@@ -1011,6 +1045,7 @@
 ||vihansoft.ir^
 ||viicoat.com^
 ||viid.me^
+||viimcu.com^
 ||vip.fortunatefellow.xyz^
 ||vip.fortunateman.xyz^
 ||vip.fortunatepeople.xyz^
@@ -1022,6 +1057,7 @@
 ||vipicmou.net^
 ||visualwebsiteoptimizer.com^
 ||vnrherdsxr.com^
+||vpn6holeplus.com^
 ||vpnadefenceplus.com^
 ||vsxapps.com^
 ||w55c.net^
@@ -1040,6 +1076,7 @@
 ||weirdgames.info^
 ||whimsoplynx.com^
 ||wholeactualnewz.com^
+||wholenicenews.com^
 ||whugesto.net^
 ||wickyad.com^
 ||widechanges.best^
@@ -1053,6 +1090,7 @@
 ||workcacenter.space^
 ||worldssl.net^
 ||wowreality.info^
+||wpcomstaging.com^
 ||wpu.sh^
 ||wuazu.net^
 ||wurfl.io^
