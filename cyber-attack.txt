@@ -43,6 +43,7 @@
 ||3rat.com^
 ||411playz.com^
 ||41df76c67812005c.com^
+||46.4.83.140^
 ||4crot.com^
 ||4ukqzi8d7l.com^
 ||51.195.21.155^
@@ -51,6 +52,8 @@
 ||6868bbe42af8e518.com^
 ||7667bab1751ff777.com^
 ||7standby.com^
+||82.137.218.185^
+||82.137.255.0^
 ||89.38.224.248^
 ||a-ads.com^
 ||a-escort.com^
@@ -126,17 +129,25 @@
 ||ampproject.org^
 ||analytics.facebook.com^
 ||analytics.yahoo.com^
+||anayurt.net^
+||androappstore.com^
 ||aneseaticu.com^
 ||anghnewads.akamaized.net^
 ||antburape.club^
+||anti-corona.app^
 ||anyaxeash.club^
 ||apeareand.club^
 ||api.onesignal.com^
 ||api.parse.com^
 ||api2.branch.io^
+||apkhl.pw^
+||apkprue.info^
+||apkpure.bz^
 ||app-measurement.com^
+||apphububstore.in^
 ||applovin.com^
 ||appsflyer.com^
+||appsstore.in^
 ||aptaniale.club^
 ||aquwysapikin.tk^
 ||arabianbetting.com^
@@ -145,6 +156,7 @@
 ||arturzawierucha.pl^
 ||asdad.xyz^
 ||askrswaths.casa^
+||atwebpages.com^
 ||atzekromchan.com^
 ||audiomain.website^
 ||awesome.net^
@@ -201,6 +213,7 @@
 ||boahoupi.com^
 ||bongacams.com^
 ||bookfeen.com^
+||bounceme.net^
 ||boustahe.com^
 ||boyaidare.club^
 ||break-day.com^
@@ -221,6 +234,8 @@
 ||cflsxgdu.xyz^
 ||chartbeat.net^
 ||chatigabe.com^
+||chatluongvacuocsong.vn^
+||chatsafe.tecnova.com.br^
 ||cheapairlinestickets.fun^
 ||cheqzone.com^
 ||chingari.io^
@@ -297,6 +312,8 @@
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d20rhod2tzd470.cloudfront.net^
 ||d2bj2texxib1qg.cloudfront.net^
+||d2np5nlsc31ci5.cloudfront.net^
+||d2qr50rz2oof04.cloudfront.net^
 ||d30gt5larl1k8h.cloudfront.net^
 ||d3p8w7to4066sy.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
@@ -304,6 +321,7 @@
 ||dairouzy.net^
 ||dar-al-amal.org^
 ||dartspeak.xyz^
+||dasvidaniya.ddns.net^
 ||data-tracking.net^
 ||datadoghp.com^
 ||dbmtrk.xyz^
@@ -341,6 +359,8 @@
 ||doublecheque.online^
 ||doubleclick.net^
 ||doubleverify.com^
+||download-revo.vercel.app^
+||download-telegram.vercel.app^
 ||downloadsdir.com^
 ||dozubatan.com^
 ||drawnperink.com^
@@ -348,6 +368,7 @@
 ||dreamdem.com^
 ||dreamsnest.com^
 ||drippeddossers.casa^
+||druze.life^
 ||dsp.wtf^
 ||dspultra.com^
 ||dtscout.com^
@@ -356,6 +377,7 @@
 ||dumpster.cam4.com^
 ||dutorterraom.com^
 ||dvdsm0rlx65fo.cloudfront.net^
+||dvrcam.info^
 ||dwcdn.net^
 ||dynsrvbaa.com^
 ||dynsrvcab.com^
@@ -374,6 +396,7 @@
 ||efzdeesa.xyz^
 ||elfishawy.com^
 ||emidzazi.site^
+||emmashop.app^
 ||enginsquawks.cam^
 ||enicyvys.xyz^
 ||enoughts.info^
@@ -401,6 +424,12 @@
 ||exosrv.com^
 ||expmediadirect.com^
 ||expmediadirect1.com^
+||f-b.today^
+||faccebookaccunt.blogspot.com^
+||face-book.xyz^
+||facebook-helps-center.com^
+||facebookdeck.com^
+||facebooks.ddns.me^
 ||fadverdirect.com^
 ||fagpodmum.site^
 ||fakediplomamall.com^
@@ -412,6 +441,7 @@
 ||fbcdn2.com^
 ||fbmedia-bls.com^
 ||fd9523b31ff93b5c.com^
+||filehubspot.com^
 ||filfanramadan.online^
 ||filkhabr.com^
 ||find-topprizes-here.life^
@@ -423,6 +453,10 @@
 ||flarefiles.com^
 ||flrefox.win^
 ||forflygonom.com^
+||fortunatefellow.xyz^
+||fortunateman.xyz^
+||fortunatepeople.xyz^
+||fortunatetime.xyz^
 ||free-4g.com^
 ||free-downloads.online^
 ||free3dgame.xyz ^
@@ -438,6 +472,7 @@
 ||games4windownloads.com^
 ||gamesone.xyz^
 ||gamezone.pw^
+||geo2ipapi.org^
 ||gestyy.com^
 ||get-express-vpns.com^
 ||getclicky.com^
@@ -464,6 +499,7 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googlezip.net^
+||gotossl.ml^
 ||gotrkspace.xyz^
 ||graizoah.com^
 ||graph.facebook.com^
@@ -488,6 +524,7 @@
 ||ho21.com^
 ||hol.es^
 ||hola.org^
+||horan-free.com^
 ||horizonme.net^
 ||hospedagemdesites.ws^
 ||hotjar.com^
@@ -498,6 +535,7 @@
 ||ichlnk.com^
 ||iclickcdn.com^
 ||iconcnd.net^
+||icptime.com^
 ||icrypto.media^
 ||id.google.com^
 ||idha.me^
@@ -514,6 +552,7 @@
 ||inflameemanent.cam^
 ||infopicked.com^
 ||informer.yandex.ru^
+||informnapalm.net^
 ||inpagepush.com^
 ||intab.fun^
 ||intellitxt.com^
@@ -527,6 +566,7 @@
 ||ips.pt^
 ||irkfunkyformer.com^
 ||israel-alma.org^
+||istiqlaihaber.com^
 ||ithoahie.com^
 ||itnuzleafan.com^
 ||itphanpytor.club^
@@ -549,6 +589,7 @@
 ||kunlunsl.com^
 ||kunlunso.com^
 ||lalaping.com^
+||lamat-horan.com^
 ||leadzuaf.com^
 ||leappoach.info^
 ||lebanese-pound-to-usd-price.com^
@@ -575,6 +616,7 @@
 ||loadsfalladz.casa^
 ||localnewsdiary.today^
 ||lockersatelic.cam^
+||loginto.me^
 ||logshipper.anghami.com^
 ||lolinka.site^
 ||looti.net^
@@ -582,6 +624,8 @@
 ||lotsnippier.cam^
 ||louchees.net^
 ||lousebankroll.com^
+||luckydevil.xyz^
+||luckydraw.space^
 ||luckyguys.top^
 ||luckyguys.xyz^
 ||luckytub.xyz^
@@ -608,6 +652,7 @@
 ||melanism-unyoke-moodiness.xyz^
 ||mellowads.com^
 ||memberstrack.net^
+||messengers.video^
 ||metds.net^
 ||mgid.com^
 ||miatta-oh.xyz^
@@ -615,6 +660,7 @@
 ||mileagechronic.com^
 ||minijeslekoralek.cz^
 ||Minmsakar.com^
+||misran.org^
 ||missedqu.top^
 ||mixpanel.com^
 ||mktoresp.com^
@@ -660,7 +706,9 @@
 ||netspec.de^
 ||newanothernew2.com^
 ||newtontanrec.casa^
+||newyorkingsite.com^
 ||nexusrules.officeapps.live.com^
+||nhansudaihoi13.org^
 ||nhpfvdlbjg.com^
 ||nic-home.com^
 ||nicsorts-accarade.com^
@@ -718,6 +766,7 @@
 ||pdn-eu.com^
 ||pdo7e.com^
 ||pegloang.com^
+||peopleluck.xyz^
 ||pepnerdmime.cam^
 ||performancetrustednetwork.com^
 ||petchesa.net^
@@ -733,6 +782,7 @@
 ||planetecultures.site^
 ||platinumlebanonescorts.com^
 ||play.google.com^
+||playgoog1e.com^
 ||playgr8.com^
 ||pocrd.cc^
 ||popcash.net^
@@ -795,6 +845,7 @@
 ||pptvpo9i.xyz^
 ||ppube3iy.xyz^
 ||predictivdisplay.com^
+||preservtyg.com^
 ||preskalyn.com^
 ||privacy-center.org^
 ||prltmz.com^
@@ -832,6 +883,7 @@
 ||pushedwebnews.com^
 ||pushit.work^
 ||pxf.io^
+||qh2020.org^
 ||qnet.net^
 ||qooqle.download^
 ||quarrel.world^
@@ -858,7 +910,9 @@
 ||rqhere2.com^
 ||rtmark.net^
 ||rtpdn14.com^
+||rtpdn15.com^
 ||rts.rs^
+||ruba-bakkour-facebook.blogspot.com^
 ||rubiconproject.com^
 ||rumahweb.com^
 ||run-syndicate.com^
@@ -885,6 +939,7 @@
 ||secured-fixer.club^
 ||segment.com^
 ||senourth.com^
+||servecounterstrike.com^
 ||serverdowndirect.com^
 ||serverishererdr164.live^
 ||seznam.cz^
@@ -917,7 +972,9 @@
 ||sponsorpay.com^
 ||sporters1.com^
 ||spotxchange.com^
+||sputniknews.news^
 ||spygasm.com^
+||sslportservices.com^
 ||sslpxc-static.olymptrade.com.c.footprint.net^
 ||stamattinairgendwann.com^
 ||statcounter.com^
@@ -927,15 +984,20 @@
 ||steepto.com^
 ||stlmo.news^
 ||strtbiz.site^
+||strunhvgpk.com^
 ||stun.l.google.com^
 ||successfullymade.com^
 ||suchadeal.org^
 ||suggestqueries.google.com^
 ||suitesbahrag.icu^
+||superlucky.xyz^
 ||superonclick.com^
 ||surge.sh^
+||suwayda-24.com^
 ||swarmpush.com^
 ||sweetsacademy.me^
+||sytes.net^
+||t-me.link^
 ||t-msedge.net^
 ||t1.streamango.com^
 ||taetsiatomia.com^
@@ -967,10 +1029,14 @@
 ||thisilebanon.com^
 ||thisislebanon.news^
 ||thisislebanon.org^
+||thundernews.org^
+||tinmoivietnam.com^
 ||Tinytap.it^
 ||tkrzhev.ru^
 ||tns-counter.ru^
 ||tobaltoyon.com^
+||tocaoonline.com^
+||tocaoonline.org^
 ||today-prizes.club^
 ||toglooman.com^
 ||tonstiparro.info^
@@ -1019,6 +1085,7 @@
 ||ufilydudyj.tk^
 ||ufpcdn.com^
 ||uglycotsjade.casa^
+||uhtpuerdfbnm.com^
 ||uinames.com^
 ||umbrellaomendear.com^
 ||untr.xyz^
@@ -1029,6 +1096,9 @@
 ||usgoodwinday.top^
 ||usgoodwinday.xyz^
 ||utwiretrab.info^
+||uyghur-news.com^
+||uyghur-soft-market.com^
+||uyghurhaber.com^
 ||vaipsona.com^
 ||valvebox1.com^
 ||vamprog.site^
@@ -1046,14 +1116,6 @@
 ||viicoat.com^
 ||viid.me^
 ||viimcu.com^
-||vip.fortunatefellow.xyz^
-||vip.fortunateman.xyz^
-||vip.fortunatepeople.xyz^
-||vip.fortunatetime.xyz^
-||vip.luckydevil.xyz^
-||vip.luckydraw.space^
-||vip.peopleluck.xyz^
-||vip.superlucky.xyz^
 ||vipicmou.net^
 ||visualwebsiteoptimizer.com^
 ||vnrherdsxr.com^
@@ -1074,6 +1136,8 @@
 ||webmobrilz.co.in^
 ||wecanhelp.org^
 ||weirdgames.info^
+||what-sapp.site^
+||whatsapp-sy.com^
 ||whimsoplynx.com^
 ||wholeactualnewz.com^
 ||wholenicenews.com^
