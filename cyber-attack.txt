@@ -2,7 +2,7 @@
 ! Title: Cyber attack Filter List by Engr. Mohamad Kassab
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
-! You can report unblocked content and direct general queries to us
+! You can report unblocked content and direct general queries to me
 ! via e-mail - majkassab+malwareblocklist@protonmail.ch
 !
 ! License: I give everyone permission to modify, copy and distribute this list.
