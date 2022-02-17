@@ -57,9 +57,7 @@
 ||89.38.224.248^
 ||a-ads.com^
 ||a-escort.com^
-||a1600.dscb.akamai.net^
 ||a1814.d.akamai.net^
-||a1916.dscg2.akamai.net^
 ||a1a5ab31bcd1bc68.com^
 ||aa53df329975c325.com^
 ||aaaado.com^
@@ -128,6 +126,7 @@
 ||am15.net^
 ||amazingcontent.site^
 ||amazon-adsystem.com^
+||amplitude.com^
 ||ampproject.org^
 ||analytics.facebook.com^
 ||analytics.yahoo.com^
@@ -162,6 +161,7 @@
 ||atwebpages.com^
 ||atzekromchan.com^
 ||audiomain.website^
+||augrezoa.net^
 ||awesome.net^
 ||awesomeprizes.net^
 ||awlaybob.com^
@@ -230,6 +230,7 @@
 ||caderode.com.br^
 ||cagothie.net^
 ||caius-pal.com^
+||caiyewe.icu^
 ||caradstag.casa^
 ||casalemedia.com^
 ||cataspboa.site^
@@ -247,6 +248,7 @@
 ||cheapairlinestickets.fun^
 ||cheqzone.com^
 ||chingari.io^
+||chooxaur.com^
 ||ciskotik.com^
 ||cityoflove.com^
 ||cjl58f3agc.com^
@@ -279,6 +281,7 @@
 ||connect.facebook.net^
 ||connectivitycheck.gstatic.com^
 ||consensu.org^
+||consoletechnologies.net^
 ||consumergiftboxsweepstakes.com^
 ||contentwritingsquare.com^
 ||contextweb.com^
@@ -344,6 +347,7 @@
 ||demandbase.com^
 ||demdex.net^
 ||demonstrator.world^
+||denetsuk.com^
 ||denis-pj0823031-491201b.com^
 ||detruckshtick.casa^
 ||devapp.co^
@@ -462,6 +466,7 @@
 ||fbcdn2.com^
 ||fbmedia-bls.com^
 ||fd9523b31ff93b5c.com^
+||fhheylujc.com^
 ||filehubspot.com^
 ||filfanramadan.online^
 ||filkhabr.com^
@@ -490,6 +495,7 @@
 ||fvdspeeddial.com^
 ||fwmrm.net^
 ||g2afse.com^
+||gaietyastonished.com^
 ||gamedate.xyz^
 ||gamefabrique.com^
 ||games4windownloads.com^
@@ -509,6 +515,7 @@
 ||go-ads.live^
 ||go2affise.com^
 ||goaciptu.net^
+||godfntvfmaywsgl.com^
 ||goodluckdog.space^
 ||goodluckguy.space^
 ||goodluckman.space^
@@ -540,6 +547,7 @@
 ||hetaint.com^
 ||hetaruvg.com^
 ||hetontbetca.info^
+||hidelen.com^
 ||histats.com^
 ||hitsmoby.com^
 ||hitycolla.top^
@@ -548,6 +556,7 @@
 ||ho21.com^
 ||hol.es^
 ||hola.org^
+||hooligapps.com^
 ||horan-free.com^
 ||horizonme.net^
 ||hospedagemdesites.ws^
@@ -599,6 +608,7 @@
 ||itphanpytor.club^
 ||jesusdr.com^
 ||jokerdz.com^
+||jomtingi.net^
 ||jotpoolwarren.com^
 ||js-agent.newrelic.com^
 ||jubnaadserve.com^
@@ -618,6 +628,7 @@
 ||kunlunso.com^
 ||lalaping.com^
 ||lamat-horan.com^
+||launchingonsetwhirlwind.com^
 ||leadzuaf.com^
 ||leappoach.info^
 ||lebanese-pound-to-usd-price.com^
@@ -655,6 +666,7 @@
 ||lotsnippier.cam^
 ||louchees.net^
 ||lousebankroll.com^
+||lucidlydiscretion.com^
 ||luckydevil.xyz^
 ||luckydraw.space^
 ||luckyguys.top^
@@ -667,6 +679,7 @@
 ||magnetrack.klangoo.com^
 ||mailbluster.com^
 ||majoryessent.top^
+||makespram.com^
 ||mal3ab.live^
 ||malouma-plus.com^
 ||mappedinisrael.com^
@@ -687,6 +700,7 @@
 ||messengers.video^
 ||metds.net^
 ||mgid.com^
+||mhnpiuruj.com^
 ||miatta-oh.xyz^
 ||milasktic.com^
 ||mileagechronic.com^
@@ -694,6 +708,7 @@
 ||Minmsakar.com^
 ||misran.org^
 ||missedqu.top^
+||misto.ks.ua^
 ||mixpanel.com^
 ||mktoresp.com^
 ||ml314.com^
@@ -727,6 +742,7 @@
 ||mybestclick.net^
 ||mybestdc.com^
 ||mybestdl.com^
+||mybetterck.com^
 ||myfood.ltd^
 ||myfrance.xyz^
 ||myll.me^
@@ -746,6 +762,7 @@
 ||nhansudaihoi13.org^
 ||nhpfvdlbjg.com^
 ||nic-home.com^
+||niceanimegames.com^
 ||nicsorts-accarade.com^
 ||nimbusweb.me^
 ||ninosproxima-word.fun^
@@ -797,6 +814,7 @@
 ||overhedtrew.info^
 ||owox.com^
 ||oyl4b8zhi.life^
+||ozefk.icu^
 ||ozewuxuxc.pw^
 ||ozonestsscareer.info^
 ||p2pb2b.io^
@@ -947,6 +965,7 @@
 ||redirect-path1.com^
 ||redmail01.com^
 ||remembergirl.com^
+||retdaz.fun^
 ||revcontent.com^
 ||reverancedc.ru^
 ||rinsouxy.com^
@@ -1064,6 +1083,7 @@
 ||tagstaticx.com^
 ||take-bestprize.life^
 ||takebad1.com^
+||takeoverpushy.com^
 ||taobao.com^
 ||taxibc.ru^
 ||tealiumiq.com^
@@ -1079,6 +1099,7 @@
 ||tesseradigital.com^
 ||th1sib3stway.com^
 ||thalesgroup.com^
+||thaudray.com^
 ||the-profit-btc.com^
 ||theanda.nl^
 ||thesandonesof.info^
@@ -1140,6 +1161,7 @@
 ||twinktube.com^
 ||txtfreesms.com^
 ||typekit.net^
+||uapvdjfoejxv.com^
 ||ufilydudyj.tk^
 ||ufpcdn.com^
 ||uglycotsjade.casa^
@@ -1223,8 +1245,10 @@
 ||wurfl.io^
 ||www-google-analytics.l.google.com^
 ||wwwescortbeirut.com^
+||xervoo.net^
 ||xilbalar.com^
 ||xurls.cz^
+||xvvlfcecns.com^
 ||xxxjmp.com^
 ||xxxtop.org^
 ||yadro.ru^
@@ -1244,4 +1268,5 @@
 ||zoosnet.net^
 ||zugadia.ru^
 ||zuphaims.com^
+||zuzodoad.com^
 ||zworker9.me^
