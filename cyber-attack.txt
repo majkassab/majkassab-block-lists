@@ -1,12 +1,13 @@
 ! Homepage: http://www.majkassab.com/
-! Title: Cyber attack Filter List by Mohamad Kassab
+! Title: Cyber attack Filter List by Engr. Mohamad Kassab
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
 ! You can report unblocked content and direct general queries to us
-! via e-mail - majkassab+malwareblocklist@majkassab.com
+! via e-mail - majkassab+malwareblocklist@protonmail.ch
 !
-! License: We give everyone permission to modify, copy and distribute this list.
-!          While not mandatory, we would appreciate credit if you use this list. 
+! License: I give everyone permission to modify, copy and distribute this list.
+!          The licensor cannot revoke these freedoms as long as you follow the license terms.
+!          While not mandatory, I would appreciate credit if you use this list. 
 !
 ! Donate and Help me ( My Bitcoin Wallet ID: 1381ZYYjCEK9oEJLF7dusEBpWxWYBjdbeN )
 !
