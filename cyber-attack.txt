@@ -30,6 +30,7 @@
 ||1dapp.news^
 ||1dmp.io^
 ||1minto-start.com^
+||1talking.net^
 ||1treebridge.com^
 ||1ts06.top^
 ||1worldonline.com^
@@ -195,8 +196,10 @@
 ||androappstore.com^
 ||android-core.org^
 ||android-updates.net^
+||androotech.com^
 ||aneseaticu.com^
 ||anghnewads.akamaized.net^
+||antalithate.website^
 ||antburape.club^
 ||anti-corona.app^
 ||anyaxeash.club^
@@ -257,11 +260,13 @@
 ||awardpractice.com^
 ||awesome.net^
 ||awesomeprizes.net^
+||awigglespouter.cam^
 ||awizo.info^
 ||awlaybob.com^
 ||awstrack.me^
 ||axis-indication.net^
 ||axp9.net^
+||ayahucapasso.website^
 ||b3z29k1uxb.com^
 ||b60228e270e363f6.com^
 ||babies-bottles.com^
@@ -950,6 +955,7 @@
 ||freshsaladtoday.com^
 ||freychang.fun^
 ||friendlyDuck.com^
+||ftte.fun^
 ||functionalcover.com^
 ||fundum8430.com^
 ||funinat.com^
@@ -971,6 +977,7 @@
 ||gamesone.xyz^
 ||gamezone.pw^
 ||gate-sync.net^
+||gcrrwijbjtq.com^
 ||gdfr.online^
 ||gearstereotype.com^
 ||geo2ipapi.org^
@@ -994,6 +1001,7 @@
 ||glasstaken.com^
 ||gleechie.net^
 ||glittercases.net^
+||gloansad.com^
 ||global-redirect.net^
 ||globalcoverage.co^
 ||globalmoby.xyz^
@@ -1045,9 +1053,11 @@
 ||gulf-news.info^
 ||gulfca.net^
 ||gumclockberry.com^
+||gutiumhypoxic.website^
 ||gvt1.com^
 ||gvt2.com^
 ||gvt3.com^
+||gzzanws.com^
 ||hairdresseraroundme.com^
 ||halal-place.com^
 ||handcraftedformat.com^
@@ -1068,6 +1078,7 @@
 ||hellomymommy.com^
 ||herbeauty.co^
 ||herdcowhas.icu^
+||hetadinh.com^
 ||hetaint.com^
 ||hetaruvg.com^
 ||hetontbetca.info^
@@ -1200,6 +1211,7 @@
 ||iusacell-movil.com.mx^
 ||iwantitallnow.com^
 ||jaimelire.net^
+||jawabe.net^
 ||jeeyarworld.com^
 ||jesusdr.com^
 ||jokerdz.com^
@@ -1344,6 +1356,7 @@
 ||luckyguys.xyz^
 ||luckytub.xyz^
 ||m-resume.com^
+||m4apks.online^
 ||macinside.info^
 ||mackeeper.com^
 ||mackeeperaffiliates.com^
@@ -1391,9 +1404,11 @@
 ||medicalcircle.net^
 ||megacenter.info^
 ||megaticket.info^
+||meisjecleeks.com^
 ||melanism-unyoke-moodiness.xyz^
 ||mellowads.com^
 ||memberstrack.net^
+||mentaib.casa^
 ||mercedesbenz-vip.com^
 ||merchant-businesses.com^
 ||mergeandcenter.com^
@@ -1533,6 +1548,7 @@
 ||nerdtvfan.com^
 ||neswangy.net^
 ||net-protector.com^
+||netlify.app^
 ||netspec.de^
 ||netstatistics.net^
 ||netvisualizer.com^
@@ -1646,6 +1662,7 @@
 ||onebitco.com^
 ||oneimpress.io^
 ||oneleadingchat.com^
+||onemany.info^
 ||onesignal.com^
 ||onetreeinheaven.com^
 ||online-dailynews.com^
@@ -1935,6 +1952,7 @@
 ||readirectly.com^
 ||reallifecam.com^
 ||realmythtrend.com^
+||realochisme.com^
 ||realsrv.com^
 ||receiptpending.net^
 ||reception-desk.net^
@@ -2315,6 +2333,7 @@
 ||tinmoivietnam.com^
 ||Tinytap.it^
 ||tinyurler.com^
+||tistory.com^
 ||tkrzhev.ru^
 ||tlgr-me.org^
 ||tns-counter.ru^
@@ -2401,6 +2420,7 @@
 ||turismo-aqui.com^
 ||turkeynewsupdates.com^
 ||turkishairines.info^
+||turnhub.net^
 ||turninted-suradios.icu^
 ||tuviste-nee.fun^
 ||tvoyobuvnoy.ru^
@@ -2431,6 +2451,7 @@
 ||untoldinfo.net^
 ||untr.xyz^
 ||unusualneighbor.com^
+||update-tist.download^
 ||updateapps.net^
 ||updatedchargers.com^
 ||updatedcharges.net^
@@ -2518,6 +2539,7 @@
 ||vnrherdsxr.com^
 ||volcanodistance.com^
 ||volcanosregion.com^
+||vooshagy.net^
 ||vpn6holeplus.com^
 ||vpnadefenceplus.com^
 ||vsxapps.com^
@@ -2542,6 +2564,7 @@
 ||waynagmay.com^
 ||wchampmuse.pw^
 ||wctrk.com^
+||wdeliv.net^
 ||weakdistance.com^
 ||weather4free.com^
 ||weatherapi.co^
