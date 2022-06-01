@@ -47,7 +47,6 @@
 ||mtctouch.shop^
 ||goodmasagechair.com^
 ||shoesworld.co^
-||qnet.net^
 ||mappedinisrael.com^
 ||mappedinisrael.com^
 ||alfa-recharge.com^
@@ -73,7 +72,7 @@
 ||uwin.com^
 ||casinodulibanononline.com^
 ||urbet.com^
-|| pockerstar.com^
+||pockerstar.com^
 ||pokerstar.com^
 ||fulltilt.com^
 ||partypoker.com^
