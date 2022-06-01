@@ -163,4 +163,4 @@
 ||israel-alma.org^
 ||thisislebanon.news^
 ||app.numeroesim.com^
-||qnet.net
+||qnet.net^
