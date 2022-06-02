@@ -3,7 +3,7 @@
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
 ! You can report unblocked content and direct general queries to me
-! via e-mail - majkassab+malwareblocklist@protonmail.ch
+! via e-mail - majkassab.blocklist.6fhcw@slmail.me
 !
 ! License: I give everyone permission to modify, copy and distribute this list.
 !          The licensor cannot revoke these freedoms as long as you follow the license terms.
