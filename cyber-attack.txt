@@ -9,8 +9,6 @@
 !          The licensor cannot revoke these freedoms as long as you follow the license terms.
 !          While not mandatory, I would appreciate credit if you use this list. 
 !
-! Donate and Help me ( My Bitcoin Wallet ID: 1381ZYYjCEK9oEJLF7dusEBpWxWYBjdbeN )
-!
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
