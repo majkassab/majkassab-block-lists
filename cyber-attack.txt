@@ -12,7 +12,8 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||102.250.4.251^
 ||112.2o7.net^
 ||122.2o7.net^
@@ -20,6 +21,7 @@
 ||14-tracking.com^
 ||142.91.159.143^
 ||154.167.233.64^
+||159.223.34.25^
 ||172.255.6.114^
 ||172.255.6.153^
 ||172.255.6.212^
@@ -36,6 +38,7 @@
 ||238.129.153.160^
 ||24-7clinic.com^
 ||247-inc.net^
+||2horney-girls.life^
 ||2key-prod-businesses.s3.amazonaws.com^
 ||2o7.net^
 ||2xclick.ru^
@@ -71,6 +74,8 @@
 ||a-resolver.com^
 ||a1814.d.akamai.net^
 ||a1a5ab31bcd1bc68.com^
+||a7bbab.com^
+||aa.google.com^
 ||aa53df329975c325.com^
 ||aaaado.com^
 ||aalaan.tv^
@@ -211,6 +216,7 @@
 ||apkhl.pw^
 ||apkprue.info^
 ||apkpure.bz^
+||apkstors.com^
 ||app-measurement.com^
 ||apphububstore.in^
 ||appleleaveit.co^
@@ -240,6 +246,7 @@
 ||asrararablya.com^
 ||asrarrarabiya.com^
 ||assembled-battery.com^
+||astancerta.fun^
 ||atlaslions.info^
 ||atraichuor.com^
 ||atwebpages.com^
@@ -526,6 +533,7 @@
 ||condenastdigital.com^
 ||conditionalcell.com^
 ||conference-ballroom.com^
+||config.unityads.unity3d.com^
 ||confusedmachine.com^
 ||connect.facebook.net^
 ||connecting-to.com^
@@ -607,7 +615,9 @@
 ||d2bj2texxib1qg.cloudfront.net^
 ||d2np5nlsc31ci5.cloudfront.net^
 ||d2qr50rz2oof04.cloudfront.net^
+||d2vwl2vhlatm2f.cloudfront.net^
 ||d30gt5larl1k8h.cloudfront.net^
+||d3f1wcxz2rdrik.cloudfront.net^
 ||d3p8w7to4066sy.cloudfront.net^
 ||d3td6g0k30g56f.cloudfront.net^
 ||daily-sport.news^
@@ -735,9 +745,11 @@
 ||drippeddossers.casa^
 ||driventicket.com^
 ||druze.life^
+||ds.linkedin.com^
 ||dsp.wtf^
 ||dspultra.com^
 ||dtscout.com^
+||dtv5loup63fac.cloudfront.net^
 ||dual-a-0001.a-msedge.net^
 ||dubaimistressheelena.com^
 ||dumpster.cam4.com^
@@ -761,6 +773,7 @@
 ||easybett.online^
 ||ebanonescortsservices.com^
 ||Eblom-mobile.com^
+||echnicianservebrink.com^
 ||ecommerce-ads.org^
 ||economic-news.co^
 ||editorscolumn.net^
@@ -920,6 +933,7 @@
 ||flashtraininggoal.com^
 ||flights-report.com^
 ||flights-todays.com^
+||flortano.com^
 ||flot2017.com^
 ||flrefox.win^
 ||flying-free.online^
@@ -998,6 +1012,7 @@
 ||glassesofwine.com^
 ||glasstaken.com^
 ||gleechie.net^
+||glersakr.com^
 ||glittercases.net^
 ||gloansad.com^
 ||global-redirect.net^
@@ -1043,6 +1058,7 @@
 ||greenbusnoise.com^
 ||greensmallcanvas.com^
 ||greenwatermovement.com^
+||greeter.me^
 ||growstart.net^
 ||grubsoan.com^
 ||gsgh.nl^
@@ -1131,6 +1147,7 @@
 ||humandiven.com^
 ||humblebenefit.com^
 ||hundredsofdesigns.net^
+||iadsdk.apple.com^
 ||icecreamlovesme.com^
 ||icedewear.site^
 ||ichlnk.com^
@@ -1324,6 +1341,7 @@
 ||loadsfalladz.casa^
 ||loadthatpage.com^
 ||localgreenflowers.com^
+||locallyjackson.com^
 ||localnewsdiary.today^
 ||lockersatelic.cam^
 ||loginto.me^
@@ -1447,6 +1465,7 @@
 ||mobileweatherweb.com^
 ||mobstore.xyz^
 ||modifytimezone.net^
+||modoro360.com^
 ||mofoplay.com^
 ||moh-followup.com^
 ||moh-online.com^
@@ -1488,12 +1507,14 @@
 ||muftidaphnin.casa^
 ||muftyat.com^
 ||multiplecurrencies.com^
+||murkilyergots.com^
 ||music-electric.org^
 ||music-headphones.org^
 ||muslim-world.info^
 ||muzicclips.com^
 ||muziclovers.org^
 ||mwgol.com^
+||my-hookuplocators1.com^
 ||my-privacy.co^
 ||my1story.xyz^
 ||mybeautylands.com^
@@ -1543,6 +1564,7 @@
 ||navywalls.com^
 ||nbrowser.org^
 ||nbryb.com^
+||nerdolac.com^
 ||nerdtvfan.com^
 ||neswangy.net^
 ||net-protector.com^
@@ -1651,6 +1673,7 @@
 ||old-glasses.net^
 ||oldmywater.com^
 ||olymptrade.com^
+||omtrdc.net^
 ||onclickgenius.com^
 ||onclickmega.com^
 ||onclicksuper.com^
@@ -2053,6 +2076,7 @@
 ||rumahweb.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
+||rupload.facebook.com^
 ||rushbitcoin.com^
 ||russian4u.net^
 ||s-onetag.com^
@@ -2280,6 +2304,7 @@
 ||tearsatecagey.work^
 ||techgus.com^
 ||techhelping.net^
+||technicianservebrink.com^
 ||techtarget.com^
 ||telangana-news24.com^
 ||telecom-info.com^
@@ -2540,6 +2565,7 @@
 ||vooshagy.net^
 ||vpn6holeplus.com^
 ||vpnadefenceplus.com^
+||vpnsafebrowsing.com^
 ||vsxapps.com^
 ||w55c.net^
 ||waffleswithnutella.com^
@@ -2649,6 +2675,7 @@
 ||worldcoolfeed.com^
 ||worldssl.net^
 ||wowreality.info^
+||wp20.ru^
 ||wpcomstaging.com^
 ||wpu.sh^
 ||wraptext.net^
