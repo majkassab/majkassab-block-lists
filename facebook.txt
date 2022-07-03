@@ -1,5 +1,5 @@
 ! Homepage: http://www.majkassab.com/
-! Title: Facebook Filter List by Mohamad Kassab
+! Title: Facebook Filter List by Engr. Mohamad Kassab
 ! Description: This filter blocks all Facebook domain.
 !
 ! You can report unblocked content and direct general queries to us
