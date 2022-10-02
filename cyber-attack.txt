@@ -163,7 +163,6 @@
 ||adservice.google.com^
 ||adservice.google.com.lb^
 ||adskeeper.com^
-||adskeeper.com^
 ||adsload.co^
 ||adsrvr.org^
 ||adtechus.com^
@@ -185,7 +184,6 @@
 ||affiliate.iqbroker.com^
 ||afriquenouvelle.com^
 ||agacelebir.com^
-||ageismvipery.com^
 ||ageismvipery.com^
 ||aghaniphone.com^
 ||agilityprocessing.net^
@@ -223,7 +221,12 @@
 ||alexmakanaki.com^
 ||alfa-recharge.com^
 ||alfad.pro^
+||alibaba.com^
+||alicdn.com^
+||aliexpress.com^
 ||alignmentdisabled.net^
+||alipay.com^
+||alipayobjects.com^
 ||alive2plunge.com^
 ||aliyuncs.com^
 ||all-sales.info^
@@ -270,6 +273,7 @@
 ||anyaxeash.club^
 ||apathylahuli.website^
 ||apeareand.club^
+||api-adservices.apple.com^
 ||api.onesignal.com^
 ||api.parse.com^
 ||api2.branch.io^
@@ -285,6 +289,7 @@
 ||appleleaveit.co^
 ||applicationcreation.net^
 ||applovin.com^
+||applvn.com^
 ||appointments-online.com^
 ||appsflyer.com^
 ||appsgratis.com.mx^
@@ -304,12 +309,10 @@
 ||arabworldnews.info^
 ||araedt.com^
 ||arc.io^
-||arc.io^
 ||aritcac.com^
 ||arkbuyarm.club^
 ||around-theglobe.co^
 ||arrowowner.com^
-||arsenalnft.org^
 ||arsenalnft.org^
 ||arturzawierucha.pl^
 ||ascisoft.com^
@@ -352,7 +355,6 @@
 ||awardpractice.com^
 ||awesome.net^
 ||awesomeprizes.net^
-||awigglespouter.cam^
 ||awigglespouter.cam^
 ||awizo.info^
 ||awlaybob.com^
@@ -478,11 +480,11 @@
 ||bmcdn1.com^
 ||bmcdn2.com^
 ||bmsend.com^
+||bnbstatic.com^
 ||boahoupi.com^
 ||boghdetgtahstak.com^
 ||boldconclusion.com^
 ||bollinger-news.com^
-||bongacams.com^
 ||bongacams.com^
 ||bongacams10.com^
 ||bookfeen.com^
@@ -546,7 +548,6 @@
 ||buysellads.com^
 ||bytesabbreviation.com^
 ||bytlo.com^
-||c-germany.com^
 ||c-germany.com^
 ||c4xnjf.com^
 ||caassoclates.com^
@@ -725,7 +726,6 @@
 ||cornclean.com^
 ||corned.co^
 ||cornixlaibach.com^
-||cornixlaibach.com^
 ||costaenergyllc-report.com^
 ||cottondecay.com^
 ||countrytrips.net^
@@ -864,7 +864,6 @@
 ||dinneraroundyou.com^
 ||directbegins.com^
 ||directcpmrev.com^
-||directcpmrev.com^
 ||directlyforuse.com^
 ||directservers.online^
 ||directurl-loading.com^
@@ -977,6 +976,7 @@
 ||dynnata.com^
 ||dynsrvbaa.com^
 ||dynsrvcab.com^
+||dyyseo.xyz^
 ||e-loading.biz^
 ||e-prokuror.info^
 ||e-sveiciens.com^
@@ -1045,6 +1045,7 @@
 ||envizai.com^
 ||epresentcaseseveral.top^
 ||equal-gravity.com^
+||er76njy.click^
 ||ergdungalga.cam^
 ||eriecommunltyfcu.org^
 ||erihj.com^
@@ -1085,7 +1086,6 @@
 ||exchangenames.net^
 ||exchangenerate.com^
 ||existingpass.com^
-||exoclick.com^
 ||exoclick.com^
 ||exosrv.com^
 ||exoticsendurance.com^
@@ -1150,6 +1150,7 @@
 ||fbsecurity.co^
 ||fcmilndia.com^
 ||fd9523b31ff93b5c.com^
+||fe34rfhg5tf.cfd^
 ||feature-publish.net^
 ||feelbonesbag.com^
 ||feeltrail.com^
@@ -1246,7 +1247,6 @@
 ||funnytvclips.com^
 ||funtikapa.info^
 ||funuzai.ru^
-||funuzai.ru^
 ||fvdspeeddial.com^
 ||fwmrm.net^
 ||fwupdating.com^
@@ -1333,7 +1333,6 @@
 ||googletagservices.com^
 ||googlezip.net^
 ||goph.club^
-||goph.club^
 ||goroskop.co^
 ||gossipsbollywoods.com^
 ||gostatspro.com^
@@ -1395,8 +1394,6 @@
 ||hellomydaddy.com^
 ||hellomymommy.com^
 ||herbeauty.co^
-||herbeauty.co^
-||herbeauty.co^
 ||herdcowhas.icu^
 ||hetadinh.com^
 ||hetaint.com^
@@ -1422,7 +1419,6 @@
 ||hmizat.co^
 ||ho21.com^
 ||hokualakavai.com^
-||hol.es^
 ||hol.es^
 ||hola.org^
 ||holder-fcl.com^
@@ -1458,6 +1454,7 @@
 ||howtoexplorebirds.com^
 ||howtomakeavocadotoastandegg.com^
 ||hracingtips.com^
+||href.li^
 ||hroderich-hep.com^
 ||hs-analytics.net^
 ||hsshd729s.com^
@@ -1476,14 +1473,12 @@
 ||iclickcdn.com^
 ||icloudcacher.com^
 ||iconcnd.net^
-||iconcnd.net^
 ||icptime.com^
 ||icrcworld.com^
 ||icrypto.media^
 ||id.google.com^
 ||ideas-telcel.com.mx^
 ||idha.me^
-||igarabealing.website^
 ||igarabealing.website^
 ||igiheonline.com^
 ||ikomek.info^
@@ -1520,6 +1515,7 @@
 ||infospotpro.com^
 ||infospress.com^
 ||inklinkor.com^
+||inmobi.com^
 ||innfinancial.net^
 ||inpagepush.com^
 ||insaertab.com^
@@ -1542,6 +1538,7 @@
 ||ipadalert.com^
 ||iphone-fix.com^
 ||iphone-notification.com^
+||iphonestreetmagic.com^
 ||ipjackets.com^
 ||ipqualityscore.com^
 ||ips.pt^
@@ -1646,6 +1643,7 @@
 ||layoutfill.com^
 ||leadersnews.org^
 ||leadzuaf.com^
+||leanplum.com^
 ||leappoach.info^
 ||leavehomego.com^
 ||lebanese-pound-to-usd-price.com^
@@ -1795,7 +1793,6 @@
 ||mapupdatezone.com^
 ||mariamgame.com^
 ||markazi.site^
-||markazi.site^
 ||marketingsolutions.yahoo.com^
 ||marketo.net^
 ||marootrack.co^
@@ -1838,7 +1835,6 @@
 ||messengers.video^
 ||metds.net^
 ||methodslocal.com^
-||mgid.com^
 ||mgid.com^
 ||mgifweb.com^
 ||mhkspartners.com^
@@ -2067,6 +2063,7 @@
 ||nexusrules.officeapps.live.com^
 ||nfnoffice.com^
 ||nhansudaihoi13.org^
+||nhgtr46t.cfd^
 ||nhpfvdlbjg.com^
 ||nic-home.com^
 ||niceanimegames.com^
@@ -2154,12 +2151,9 @@
 ||onclickgenius.com^
 ||onclickmega.com^
 ||onclicksuper.com^
-||onclicksuper.com^
 ||one-isnot-enough.com^
 ||one-prize.com^
 ||oneadjump.com^
-||onebitco.com^
-||onebitco.com^
 ||onebitco.com^
 ||oneimpress.io^
 ||oneleadingchat.com^
@@ -2220,9 +2214,6 @@
 ||outletstore.tech^
 ||outlookfilesauthentication.com^
 ||outrotomr.com^
-||outrotomr.com^
-||outrotomr.com^
-||outrotomr.com^
 ||outsliggooa.com^
 ||overhedtrew.info^
 ||ovfcv.com^
@@ -2279,7 +2270,6 @@
 ||peopleluck.xyz^
 ||pepnerdmime.cam^
 ||pepslco.com^
-||perfectdating.life^
 ||perfectdating.life^
 ||perfectsmile-dcntal.com^
 ||performancetrustednetwork.com^
@@ -2482,12 +2472,12 @@
 ||pushalert.co^
 ||pushanert.com^
 ||pushcollection.net^
-||pushcollection.net^
 ||pushedwebnews.com^
 ||pushit.work^
 ||puttylearning.com^
 ||pxf.io^
 ||pyxislogistics.click^
+||qa5nhg6tygh.cfd^
 ||qaintqa.com^
 ||qaoffers.net^
 ||qh2020.org^
@@ -2572,8 +2562,6 @@
 ||redirectweburl.com^
 ||redirigir.net^
 ||redmail01.com^
-||redri.net^
-||redri.net^
 ||redri.net^
 ||redstarnews.net^
 ||reflectextension.net^
@@ -2683,7 +2671,6 @@
 ||scaryaudience.com^
 ||scbhubonc.co^
 ||schmidoffice.click^
-||scorecardresearch.com^
 ||scorecardresearch.com^
 ||scotchdale.click^
 ||scriptincluded.com^
@@ -2828,7 +2815,6 @@
 ||squaretables.net^
 ||sroauth.xyz^
 ||srvpcn.com^
-||srvpcn.com^
 ||sslbind.com^
 ||sslportservices.com^
 ||sslpxc-static.olymptrade.com.c.footprint.net^
@@ -2961,8 +2947,6 @@
 ||thalesgroup.com^
 ||thankstossl.com^
 ||thaudray.com^
-||thaudray.com^
-||thaudray.com^
 ||the-only-way-out.com^
 ||the-profit-btc.com^
 ||theanda.nl^
@@ -2996,7 +2980,6 @@
 ||tigoenergym1crosoft-passwd.com^
 ||tiketon.info^
 ||timelesscelebrity.com^
-||timelymongol.com^
 ||timelymongol.com^
 ||timeofflife.com^
 ||tinmoivietnam.com^
@@ -3035,7 +3018,6 @@
 ||topforex.trade^
 ||topoems.com^
 ||topten-news.info^
-||torioluor.com^
 ||torioluor.com^
 ||torum.com^
 ||totaladblocker.com^
@@ -3077,6 +3059,7 @@
 ||tricksinswiss.com^
 ||trililihihi.com^
 ||tripleclickpays.com^
+||tristoshink.online^
 ||trkbc.com^
 ||trkbng.com^
 ||trkcenter.xyz^
@@ -3090,7 +3073,6 @@
 ||tryphptoday.com^
 ||ts-dating.com^
 ||ts3card.com^
-||tsyndicate.com^
 ||tsyndicate.com^
 ||tt2.openload.co^
 ||ttxsrl1.life^
@@ -3142,6 +3124,7 @@
 ||untr.xyz^
 ||unusualneighbor.com^
 ||update-tist.download^
+||update48451.xyz^
 ||updateapps.net^
 ||updatedchargers.com^
 ||updatedcharges.net^
@@ -3238,6 +3221,7 @@
 ||villatelperu.com^
 ||vipicmou.net^
 ||vipmasajes.com^
+||visa-gift.com^
 ||vistabank-report.com^
 ||visualwebsiteoptimizer.com^
 ||vitox.click^
@@ -3318,6 +3302,7 @@
 ||websiteeco.com^
 ||websitereconnecting.com^
 ||websites4yourhost.com^
+||websiteseguro.com^
 ||websitetosubmit.com^
 ||webstrings.net^
 ||websupporter.co^
@@ -3418,8 +3403,6 @@
 ||yfilesstorage1.com^
 ||yhjfdhgjdhunjdyuidesuidsuihjfdjkies.com^
 ||yickhoesgroup.com^
-||ylcufr.com^
-||ylcufr.com^
 ||ylcufr.com^
 ||yolmathy.com^
 ||yonhelioliskor.com^
