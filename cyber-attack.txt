@@ -12,7 +12,7 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
 ||0mx1lntastantretatlanpassword.com^
 ||0mxus3rauthkeepsame.com^
 ||102.250.4.251^
