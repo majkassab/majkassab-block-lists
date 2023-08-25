@@ -12,7 +12,8 @@
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
 !-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-||searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^
+"||
+searchlb-3b453017ec33bbb9.elb.us-west-2.amazonaws.com^"
 ||0mx1lntastantretatlanpassword.com^
 ||0mxus3rauthkeepsame.com^
 ||102.250.4.251^
@@ -129,6 +130,7 @@
 ||acuciondi.com^
 ||ad-generator.net^
 ||ad-switcher.com^
+||ad.mail.ru^
 ||ad.samsungadhub.com^
 ||ad1data.com^
 ||ad2bitcoin.com^
@@ -293,6 +295,7 @@
 ||amung.us^
 ||an.facebook.com^
 ||an.yandex.ru^
+||anakeesta.com^
 ||analytics-sg.tiktok.com^
 ||analytics.facebook.com^
 ||analytics.mobile.yandex.net^
@@ -310,6 +313,7 @@
 ||androotech.com^
 ||aneseaticu.com^
 ||anghnewads.akamaized.net^
+||animalnet.de^
 ||antalithate.website^
 ||antburape.club^
 ||anti-corona.app^
@@ -397,6 +401,7 @@
 ||autodiscount.info^
 ||autoredirect.net^
 ||autsolut.net^
+||autumncamping.com^
 ||av-scanner.com^
 ||avantscapital.com^
 ||avis-corporation.com^
@@ -573,6 +578,7 @@
 ||brownandblueeyes.com^
 ||browser-update.online^
 ||browser.events.data.microsoft.com^
+||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||bryologyx.click^
 ||bs-meta.yandex.ru^
@@ -608,6 +614,7 @@
 ||buymanuel.co^
 ||buypresent4me.net^
 ||buysellads.com^
+||byteoversea.com^
 ||bytesabbreviation.com^
 ||bytlo.com^
 ||c-germany.com^
@@ -736,6 +743,7 @@
 ||clubmovistar.com^
 ||clubsforus.net^
 ||cms.analytics.yahoo.com^
+||cmvrclicks000.com^
 ||cnn-africa.co^
 ||cnptrd.com^
 ||cnrs.fr^
@@ -878,6 +886,7 @@
 ||dailymagazine.xyz^
 ||dairouzy.net^
 ||dalagajoewood.website^
+||dalyio.com^
 ||damanhealth.online^
 ||damerche.com^
 ||dancersing.net^
@@ -1136,6 +1145,7 @@
 ||erihj.com^
 ||ermapp.net^
 ||erowredsigo.info^
+||errumoso.xyz^
 ||erty.online^
 ||es.advertising.yahoo.com^
 ||escort-beirut.info^
@@ -1247,6 +1257,7 @@
 ||feelbonesbag.com^
 ||feeltrail.com^
 ||femmedaffaire.com^
+||ferozo.com^
 ||fetchlink.net^
 ||fgtsolutions.co^
 ||fhheylujc.com^
@@ -1638,6 +1649,7 @@
 ||intab.fun^
 ||intelliclicksoftware-online.software^
 ||intellitxt.com^
+||intercom-clicks.com^
 ||intercom.io^
 ||internationalescorts.com^
 ||internetmobilespeed.com^
@@ -1731,6 +1743,7 @@
 ||knyjbio.com^
 ||koc-tr.com^
 ||koramaghreb.com^
+||kqzyfj.com^
 ||kra.center^
 ||kreagermitchell.click^
 ||kromtech.net^
@@ -1755,6 +1768,7 @@
 ||latam.adspecs.yahoo.com^
 ||latest-songs.com^
 ||launchingonsetwhirlwind.com^
+||lavaalchemist.top^
 ||lawlowvat.net^
 ||layerprotect.com^
 ||layoutfill.com^
@@ -1899,6 +1913,7 @@
 ||mailstoragenoticeonline.com^
 ||maingreatessay.com^
 ||mainredirecter.com^
+||mairunoa.xyz^
 ||majoryessent.top^
 ||makairalandscaqe.com^
 ||makespram.com^
@@ -1945,8 +1960,10 @@
 ||mealrentyard.com^
 ||meanspursuit.com^
 ||media.net^
+||mediago.io^
 ||medical-updates.com^
 ||medicalcircle.net^
+||meetbestlove.life^
 ||megacenter.info^
 ||megaticket.info^
 ||meisjecleeks.com^
@@ -2116,6 +2133,7 @@
 ||mygreathat.com^
 ||mygummyjelly.com^
 ||myheartbuild.com^
+||myhookupclub5.com^
 ||mykaspi.com^
 ||myll.me^
 ||mylogfrog.com^
@@ -2257,6 +2275,7 @@
 ||novosti247.com^
 ||now-online.net^
 ||nr-data.net^
+||nrkeayhb.com^
 ||nsoqa.com^
 ||ntgent-be.click^
 ||nuclearillano.casa^
@@ -2469,6 +2488,7 @@
 ||playwithusonline.com^
 ||pleaseusenew.com^
 ||pleaseusenew.net^
+||plesk.page^
 ||pochta-info.com^
 ||pocrd.cc^
 ||poetape.com^
@@ -2615,6 +2635,7 @@
 ||proudmorale.com^
 ||prpops.com^
 ||psaiceex.net^
+||psaltauw.net^
 ||psscontractor.com^
 ||pub-dns.com^
 ||publishbig.net^
@@ -2826,6 +2847,7 @@
 ||saumooly.net^
 ||savemoretime.co^
 ||saveurday.net^
+||savewonopen.live^
 ||sb4you1.com^
 ||sbmchina.com^
 ||sbplay.org^
@@ -2888,6 +2910,7 @@
 ||sexrapide.com^
 ||seznam.cz^
 ||shaftdesign.click^
+||shahidmosalsalat.co^
 ||shapshap22.com^
 ||share-access-notifications.com^
 ||share.yandex.ru^
@@ -3031,6 +3054,7 @@
 ||strangegloom.net^
 ||strategyroles.com^
 ||stripchat.com^
+||stripe.network^
 ||strtbiz.site^
 ||strunhvgpk.com^
 ||stun.l.google.com^
@@ -3054,6 +3078,7 @@
 ||superonclick.com^
 ||supportmetrics.apple.com^
 ||supportonline4me.com^
+||surfcuegirlfriend.com^
 ||surge.sh^
 ||surprising-sites.com^
 ||suwayda-24.com^
@@ -3434,6 +3459,7 @@
 ||volcanosregion.com^
 ||von-lincs.shop^
 ||vooshagy.net^
+||vortex.data.microsoft.com^
 ||vpn-access.org^
 ||vpn6holeplus.com^
 ||vpnadefenceplus.com^
@@ -3443,6 +3469,7 @@
 ||vsxapps.com^
 ||vurijuireiujmfdusijeruijmfudisjdsaim.com^
 ||w-soap2day.to^
+||w0w.monster^
 ||w55c.net^
 ||waffleswithnutella.com^
 ||waisheph.com^
@@ -3495,6 +3522,7 @@
 ||webresourcer.com^
 ||websconnector.co^
 ||websecuritynotice.com^
+||webserverlicense.de^
 ||websiteconnecting.com^
 ||websiteeco.com^
 ||websitereconnecting.com^
