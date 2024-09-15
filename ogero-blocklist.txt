@@ -160,6 +160,7 @@
 ||aeroport-beyrouth.com^
 ||fakediplomamall.com^
 ||israel-alma.org^
+||smsprofit.net^
 ||thisislebanon.news^
 ||app.numeroesim.com^
 #Reff-3882
