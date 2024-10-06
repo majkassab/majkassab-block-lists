@@ -1,167 +1,165 @@
-#This web list is blocked on the ogero internet service provider network.
-||bakpage.com^
-||ts-dating.com^
-||proomaha.com^
-||risk.me^
-||cedarbet.com^
-||3rat.COM^
-||lavabet.com^
-||909ONLINE.COM^
-||livescore.com^
-||betbetty.com^
-||blue.link^
-||dupokers.com^
-||1holdem.org^
-||nobetfold.Online^
-||lava10bet.com^
-||norisk1.me^
-||flushscore.com^
-||escortsinlebanon.com^
-||escortslebanonbeirut.com^
-||lebanon-escorts.com^
-||eurigirlsescort.com^
-||lebanonescortgirls.com^
-||escortsinlebanon.net^
-||escortinbeirut.com^
-||dubaimistressheelena.com^
-||platinumlebanonescorts.com^
-||lebanonsexyescorts.com^
-||lebanonescorts.companionfiles.com^
-||escortsbeirutlebanon.com^
-||lebanonescorts.me^
-||wwwescortbeirut.com^
-||escortslebanon.net^
-||a-escort.com^
-||escotsinbeirut.biz^
-||escortlebanon.wixsite.com^
-||lebanonescortsservices.com^
-||womeninbeirut.com^
-||escortmodelsbeirut.com^
-||internationalescorts.com^
-||escortlebanon.wixsite.com^
-||marsbet.com^
-||nigeriaholdem.com^
-||kingholdem.com^
-||mtctouch.sale^
-||mtctouch.online^
-||mtctouch.shop^
-||goodmasagechair.com^
-||shoesworld.co^
-||mappedinisrael.com^
-||mappedinisrael.com^
-||alfa-recharge.com^
-||dar-al-amal.org^
-||ceasarscasino.com^
-||game-365.com^
-||willhill.com^
-||betvictor.com^
-||bovada.com^
-||bovada.lv^
-||gambling.com^
-||ubc365.com^
-||williamhill.com^
-||bwin.com^
-||timescores.com^
-||urbetclub.com^
-||allsport365.com^
-||gamebleonline.com^
-||betfair.com^
-||vegas.com^
-||casino.bovada.lv^
-||wap.bwin.com^
-||uwin.com^
-||casinodulibanononline.com^
-||urbet.com^
-||pockerstar.com^
-||pokerstar.com^
-||fulltilt.com^
-||partypoker.com^
-||titanpoker.com^
-||bet365.com^
-||pokerstars.net^
-||pokerstars.com^
-||fulltiltpoker.net^
-||fulltiltpoker.com^
-||sports.williamhill.com^
-||888.com^
-||888casino.com^
-||888poker.com^
-||888sport.com^
-||888bingo.com^
-||888games.com^
-||safe-cashier.com^
-||gamesandcasino.com^
-||pokerlive.live^
-||touchleb.com^
-||minmsakar.com^
-||mariamgame.com
-||neswangy.net^
-||looti.net^
-||4crot.com^
-||pdoyl.curd.io^
-||blomsal.com^
-||assamnews.net^
-||scrollquotes.com^
-||onlineblom.com^
-||onlineunionsavings.com^
-||blombank-mobile.com^
-||eblom-mobile.com^
-||tinytap.it^
-||wix.com^
-||jokerdz.com^
-||thisislebanon.org^
-||grindr.com^
-||saida.tv^
-||escort-beirut.info^
-||cityoflove.com^
-||escortnews.com^
-||beirutbedpage.com^
-||gooescorts.com^
-||similarweb.com^
-||bakpage.com^
-||ts-dating.com^
-||thisilebanon.com^
-||shinmimlam.com^
-||lirarate.com^
-||gfatf.org^
-||lebaneselira.org^
-||europe-west1-exchange-3485d.cloudfunctions.net^
-||us-centrall-currency-converter-a56bd.cloudfunctions.net^
-||dollarnow-android-app.firebaseapp.com^
-||alim-a312e.firebaseapp.com^
-||adde-dollar.firebaseio.com^
-||dollarpricelebanon.firebaseio.com^
-||lebessentials.com^
-||usdrate.prograppers.com^
-||dollartolebanesecurrency.com^
-||ermapp.net^
-||vsxapps.com^
-||famquote.com^
-||dollar-prices-today.com^
-||lebanese-pound-to-usd-price.com^
-||jac.today^
-||maxbet.com^
-||betshop.com^
-||thebet1.com^
-||bluff.link^
-||lirat.bet^
-||time4bets.com^
-||poker.online^
-||mtr.net^
-||facebooklb.net^
-||funlb.net^
-||gopoker365.com^
-||bets366.com^
-||upc365.poker^
-||dupoker.com^
-||lpc.fun^
-||winpoker.app^
-||doublecheque.online^
-||aeroport-beyrouth.com^
-||fakediplomamall.com^
-||israel-alma.org^
-||smsprofit.net^
-||thisislebanon.news^
-||app.numeroesim.com^
-#Reff-3882
-||sexobeirut.mobi^
+10.1.1.7 bakpage.com
+10.1.1.7 ts-dating.com
+10.1.1.7 proomaha.com
+10.1.1.7 risk.me
+10.1.1.7 cedarbet.com
+10.1.1.7 3rat.COM
+10.1.1.7 lavabet.com
+10.1.1.7 909ONLINE.COM
+10.1.1.7 livescore.com
+10.1.1.7 betbetty.com
+10.1.1.7 blue.link
+10.1.1.7 dupokers.com
+10.1.1.7 1holdem.org
+10.1.1.7 nobetfold.Online
+10.1.1.7 lava10bet.com
+10.1.1.7 norisk1.me
+10.1.1.7 flushscore.com
+10.1.1.7 escortsinlebanon.com
+10.1.1.7 escortslebanonbeirut.com
+10.1.1.7 lebanon-escorts.com
+10.1.1.7 eurigirlsescort.com
+10.1.1.7 lebanonescortgirls.com
+10.1.1.7 escortsinlebanon.net
+10.1.1.7 escortinbeirut.com
+10.1.1.7 dubaimistressheelena.com
+10.1.1.7 platinumlebanonescorts.com
+10.1.1.7 lebanonsexyescorts.com
+10.1.1.7 lebanonescorts.companionfiles.com
+10.1.1.7 escortsbeirutlebanon.com
+10.1.1.7 lebanonescorts.me
+10.1.1.7 wwwescortbeirut.com
+10.1.1.7 escortslebanon.net
+10.1.1.7 a-escort.com
+10.1.1.7 escotsinbeirut.biz
+10.1.1.7 escortlebanon.wixsite.com
+10.1.1.7 lebanonescortsservices.com
+10.1.1.7 womeninbeirut.com
+10.1.1.7 escortmodelsbeirut.com
+10.1.1.7 internationalescorts.com
+10.1.1.7 escortlebanon.wixsite.com
+10.1.1.7 marsbet.com
+10.1.1.7 nigeriaholdem.com
+10.1.1.7 kingholdem.com
+10.1.1.7 mtctouch.sale
+10.1.1.7 mtctouch.online
+10.1.1.7 mtctouch.shop
+10.1.1.7 goodmasagechair.com
+10.1.1.7 shoesworld.co
+10.1.1.7 mappedinisrael.com
+10.1.1.7 mappedinisrael.com
+10.1.1.7 alfa-recharge.com
+10.1.1.7 dar-al-amal.org
+10.1.1.7 ceasarscasino.com
+10.1.1.7 game-365.com
+10.1.1.7 willhill.com
+10.1.1.7 betvictor.com
+10.1.1.7 bovada.com
+10.1.1.7 bovada.lv
+10.1.1.7 gambling.com
+10.1.1.7 ubc365.com
+10.1.1.7 williamhill.com
+10.1.1.7 bwin.com
+10.1.1.7 timescores.com
+10.1.1.7 urbetclub.com
+10.1.1.7 allsport365.com
+10.1.1.7 gamebleonline.com
+10.1.1.7 betfair.com
+10.1.1.7 vegas.com
+10.1.1.7 casino.bovada.lv
+10.1.1.7 wap.bwin.com
+10.1.1.7 uwin.com
+10.1.1.7 casinodulibanononline.com
+10.1.1.7 urbet.com
+10.1.1.7 pockerstar.com
+10.1.1.7 pokerstar.com
+10.1.1.7 fulltilt.com
+10.1.1.7 partypoker.com
+10.1.1.7 titanpoker.com
+10.1.1.7 bet365.com
+10.1.1.7 pokerstars.net
+10.1.1.7 pokerstars.com
+10.1.1.7 fulltiltpoker.net
+10.1.1.7 fulltiltpoker.com
+10.1.1.7 sports.williamhill.com
+10.1.1.7 888.com
+10.1.1.7 888casino.com
+10.1.1.7 888poker.com
+10.1.1.7 888sport.com
+10.1.1.7 888bingo.com
+10.1.1.7 888games.com
+10.1.1.7 safe-cashier.com
+10.1.1.7 gamesandcasino.com
+10.1.1.7 pokerlive.live
+10.1.1.7 touchleb.com
+10.1.1.7 minmsakar.com
+10.1.1.7 mariamgame.com
+10.1.1.7 neswangy.net
+10.1.1.7 looti.net
+10.1.1.7 4crot.com
+10.1.1.7 pdoyl.curd.io
+10.1.1.7 blomsal.com
+10.1.1.7 assamnews.net
+10.1.1.7 scrollquotes.com
+10.1.1.7 onlineblom.com
+10.1.1.7 onlineunionsavings.com
+10.1.1.7 blombank-mobile.com
+10.1.1.7 eblom-mobile.com
+10.1.1.7 tinytap.it
+10.1.1.7 wix.com
+10.1.1.7 jokerdz.com
+10.1.1.7 thisislebanon.org
+10.1.1.7 grindr.com
+10.1.1.7 saida.tv
+10.1.1.7 escort-beirut.info
+10.1.1.7 cityoflove.com
+10.1.1.7 escortnews.com
+10.1.1.7 beirutbedpage.com
+10.1.1.7 gooescorts.com
+10.1.1.7 similarweb.com
+10.1.1.7 bakpage.com
+10.1.1.7 ts-dating.com
+10.1.1.7 thisilebanon.com
+10.1.1.7 shinmimlam.com
+10.1.1.7 lirarate.com
+10.1.1.7 gfatf.org
+10.1.1.7 lebaneselira.org
+10.1.1.7 europe-west1-exchange-3485d.cloudfunctions.net
+10.1.1.7 us-centrall-currency-converter-a56bd.cloudfunctions.net
+10.1.1.7 dollarnow-android-app.firebaseapp.com
+10.1.1.7 alim-a312e.firebaseapp.com
+10.1.1.7 adde-dollar.firebaseio.com
+10.1.1.7 dollarpricelebanon.firebaseio.com
+10.1.1.7 lebessentials.com
+10.1.1.7 usdrate.prograppers.com
+10.1.1.7 dollartolebanesecurrency.com
+10.1.1.7 ermapp.net
+10.1.1.7 vsxapps.com
+10.1.1.7 famquote.com
+10.1.1.7 dollar-prices-today.com
+10.1.1.7 lebanese-pound-to-usd-price.com
+10.1.1.7 jac.today
+10.1.1.7 maxbet.com
+10.1.1.7 betshop.com
+10.1.1.7 thebet1.com
+10.1.1.7 bluff.link
+10.1.1.7 lirat.bet
+10.1.1.7 time4bets.com
+10.1.1.7 poker.online
+10.1.1.7 mtr.net
+10.1.1.7 facebooklb.net
+10.1.1.7 funlb.net
+10.1.1.7 gopoker365.com
+10.1.1.7 bets366.com
+10.1.1.7 upc365.poker
+10.1.1.7 dupoker.com
+10.1.1.7 lpc.fun
+10.1.1.7 winpoker.app
+10.1.1.7 doublecheque.online
+10.1.1.7 aeroport-beyrouth.com
+10.1.1.7 fakediplomamall.com
+10.1.1.7 israel-alma.org
+10.1.1.7 smsprofit.net
+10.1.1.7 thisislebanon.news
+10.1.1.7 app.numeroesim.com
+10.1.1.7 sexobeirut.mobi
