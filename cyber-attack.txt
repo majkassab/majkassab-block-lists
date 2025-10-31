@@ -1330,7 +1330,7 @@
 ||free-downloads.online^
 ||free-local-events.info^
 ||free247downloads.com^
-||free3dgame.xyz ^
+||free3dgame.xyz^
 ||freedirtygame.com^
 ||freedominfo.net^
 ||freelancers-team.org^
