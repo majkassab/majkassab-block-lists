@@ -3785,3 +3785,4 @@
 ||plausible.io^
 ||carrefouranniversaryears.pages.dev^
 ||od-img.pages.dev^
+||collector.github.com^
