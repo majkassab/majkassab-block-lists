@@ -1,4 +1,4 @@
-"! Homepage: http://www.majkassab.net/
+! Homepage: http://www.majkassab.net/
 ! Title: Cyber attack Filter List by Engr. Mohamad Kassab
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
@@ -3796,3 +3796,7 @@
 ||analytics.vinovo.si^
 ||pglucky88.pro^
 ||painsucre.com^
+||acscdn.com^
+||regardedpastureenvironmental.com^
+||dualistesseda.com^
+||fiddleyhigdon.com^
