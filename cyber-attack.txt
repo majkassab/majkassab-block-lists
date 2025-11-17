@@ -3133,7 +3133,6 @@
 ||storelive.co^
 ||strangegloom.net^
 ||strategyroles.com^
-||stripchat.com^
 ||stripe.network^
 ||strtbiz.site^
 ||strunhvgpk.com^
@@ -3864,3 +3863,11 @@
 ||refpa2518.com^
 ||app-momentum.com^
 ||securityax.com^
+||chihuahuadoorstoppond.com^
+||pncloudfl.com^
+||campfirecroutondecorator.com^
+||ey43.com^
+||mocortech.com^
+||holahupa.com^
+||g2288.com^
+||mytdsnet.com^
