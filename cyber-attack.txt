@@ -11,7 +11,7 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
-!-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+!-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 ||0mx1lntastantretatlanpassword.com^
 ||0mxus3rauthkeepsame.com^
 ||102.250.4.251^
@@ -3953,3 +3953,24 @@
 ||eliakanadi.workers.dev^
 ||sainwertapr.com^
 ||moultdingle.rest^
+||policie-gov.cloud^
+||todewottor.com^
+||tools4hack.com^
+||sgerzgk.es^
+||fortuix-agent-app.com^
+||ptichoolsougn.net^
+||adalg-lsm.com^
+||onelink.to^
+||optcoin66.com^
+||cqdtpdyjrbjwj.com^
+||fvjnkvhowc.com^
+||viifcktm.com^
+||b7510.com^
+||zgvzxohoj7dty.site^
+||linkjepe808.online^
+||flowrette.es^
+||sincomics.es^
+||niobefrogeye.com^
+||frazergraces.rest^
+||witsjesuatedecurve.qpon^
+
