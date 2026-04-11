@@ -1,5 +1,5 @@
-! Homepage: http://www.majkassab.net/
-! Title: Cyber attack Filter List by Eng. Mohamad Kassab
+"! Homepage: http://www.majkassab.net/
+! Title: Cyber attack Filter List by Engr. Mohamad Kassab
 ! Description: This filter blocks ads, Tracker and malware domains.
 !
 ! You can report unblocked content and direct general queries to me
@@ -11,7 +11,7 @@
 !
 ! URL: https://raw.githubusercontent.com/majkassab/majkassab-block-lists/master/cyber-attack.txt
 !
-!-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+!-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
 ||0mx1lntastantretatlanpassword.com^
 ||0mxus3rauthkeepsame.com^
 ||102.250.4.251^
@@ -4089,3 +4089,13 @@
 ||imagisteyases.cfd^
 ||v2006.com^
 ||cardboardcrispyrover.com^
+||webtorrent.dev^
+||marketdeathly.com^
+||cymastariff.cfd^
+||festivitynextrocker.com^
+||wordle.cl^
+||m696yefd.s1q2105.com^
+||sklep.pl^
+||kennyexport.cl^
+||073m.com^
+||uboundpuggree.com^
