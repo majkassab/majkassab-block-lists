@@ -4149,3 +4149,6 @@
 ||forscprts.com^
 ||analytics.google.com^
 ||herbolarioqueti.es^
+||octowitchbyte.buzz^
+||closemidnights.buzz^
+||resetandgo.buzz^
