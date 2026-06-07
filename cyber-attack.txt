@@ -3810,7 +3810,6 @@
 ||ruwya.com^
 ||bmmads.com^
 ||unferrazoa.com^
-||vinovo.to^
 ||vinovo.si^
 ||dexpredict.com^
 ||optvz.com^
@@ -4152,3 +4151,12 @@
 ||octowitchbyte.buzz^
 ||closemidnights.buzz^
 ||resetandgo.buzz^
+||aroxumtoe.com^
+||p19-ad-site-sign-sg.tiktokcdn.com^
+||qpmelqzaasl.com^
+||miixdrop.net^
+||cryptoofaucet.xyz^
+||coinserom.com^
+||highperformanceformat.com^
+||fpadserver.com^
+||crn77.com^
