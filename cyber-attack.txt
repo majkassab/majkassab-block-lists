@@ -5076,3 +5076,7 @@
 ||getdrip.com^
 ||honeybadger.io^
 ||visariomedia.com^
+||parsely.com^
+||cookieyes.com^
+||cdn-cookieyes.com^
+||ahrefs.com^
