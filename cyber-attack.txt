@@ -5080,3 +5080,4 @@
 ||cookieyes.com^
 ||cdn-cookieyes.com^
 ||ahrefs.com^
+||test.majk.me
