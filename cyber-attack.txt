@@ -5080,4 +5080,13 @@
 ||cookieyes.com^
 ||cdn-cookieyes.com^
 ||ahrefs.com^
-||test.majk.me
+||parse.ly^
+||hsforms.net^
+||clearstats.app^
+||qcizuncfuob.com^
+||routhskabaka.cyou^
+||apemanwakore.cfd^
+||sitiotetrix.cyou^
+||ergasiamanius.cyou^
+||endpoint-api-v1.com^
+||test.majk.me^
