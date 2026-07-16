@@ -5099,3 +5099,6 @@
 ||synerix.app^
 ||collabox.uk^
 ||werknova.co^
+||maccyapp.com^
+||avenger-sync.live^
+||publicnode.com^
