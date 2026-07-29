@@ -1,6 +1,7 @@
 ! Homepage: http://www.majkassab.net/
-! Title: Cyber attack Filter List by Eng. Mohamad Kassab
+! Title: MAJKList
 ! Description: This filter blocks ads, Tracker and malware domains.
+! Expires: 1 days (update frequency)
 !
 ! You can report unblocked content and direct general queries to me
 ! via e-mail - majkassab@duck.com
