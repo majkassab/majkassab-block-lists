@@ -5206,3 +5206,8 @@
 ||btyqrikicjz.in^
 ||srvzone.com^
 ||resultslookup.com^
+||disqus.com^
+||politicallygreek.com^
+||asdfix.com^
+||ronracepub.com^
+||racepass.site^
