@@ -5213,3 +5213,8 @@
 ||racepass.site^
 ||www-omt.vip^
 ||isf-gob-lb.lat^
+||qsearch-a.akamaihd.net^
+||uniladtech.com^
+||profitableratecpmnetwork.com^
+||bony-teaching.com^
+||2osb.com^
