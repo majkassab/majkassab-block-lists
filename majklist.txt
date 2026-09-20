@@ -5285,5 +5285,11 @@
 ||refpa89554.com^
 ||uncattraff.com^
 ||adsbetnet.com^
-||5ti6te9rdjn.com^
 ||tenderly.co^
+||matomo.cloud^
+||clevertap-prod.com^
+||bildsoectoph.com^
+||29831891-24082-24337.v2^
+||puclepighicric.com^
+||push-sdk.com^
+||siatenidantic.com^
